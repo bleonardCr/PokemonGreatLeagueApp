@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Togekiss",
+    "Types": [ "Fairy", "Flying" ],
+    "MaxCP": 3332
+  },
+  {
+    "Name": "Dialga",
+    "Types": [ "Steel", "Dragon" ],
+    "MaxCP": 4038
+  },
+  {
+    "Name": "Groudon",
+    "Types": [ "Ground" ],
+    "MaxCP": 4115
+  }
+]

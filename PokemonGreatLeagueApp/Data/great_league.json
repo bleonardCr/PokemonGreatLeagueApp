@@ -1,0 +1,6380 @@
+[
+  {
+    "Name": "Diggersby",
+    "Attack": 95.7,
+    "Defense": 140.3,
+    "Stamina": 174.0
+  },
+  {
+    "Name": "Forretress",
+    "Attack": 109.8,
+    "Defense": 145.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Clodsire",
+    "Attack": 95.1,
+    "Defense": 119.7,
+    "Stamina": 208.0
+  },
+  {
+    "Name": "Lapras",
+    "Attack": 104.7,
+    "Defense": 114.6,
+    "Stamina": 179.0
+  },
+  {
+    "Name": "Gligar",
+    "Attack": 108.5,
+    "Defense": 145.3,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Jellicent",
+    "Attack": 106.7,
+    "Defense": 126.3,
+    "Stamina": 156.0
+  },
+  {
+    "Name": "Dusclops",
+    "Attack": 102.4,
+    "Defense": 197.7,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Gligar (Shadow)",
+    "Attack": 108.5,
+    "Defense": 145.3,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Golisopod",
+    "Attack": 124.1,
+    "Defense": 134.7,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Jumpluff (Shadow)",
+    "Attack": 96.7,
+    "Defense": 157.0,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Mandibuzz",
+    "Attack": 92.1,
+    "Defense": 151.3,
+    "Stamina": 175.0
+  },
+  {
+    "Name": "Samurott",
+    "Attack": 128.0,
+    "Defense": 100.9,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Corsola (Galarian)",
+    "Attack": 99.3,
+    "Defense": 163.1,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Corviknight",
+    "Attack": 107.0,
+    "Defense": 130.7,
+    "Stamina": 150.0
+  },
+  {
+    "Name": "Clodsire",
+    "Attack": 95.1,
+    "Defense": 119.7,
+    "Stamina": 208.0
+  },
+  {
+    "Name": "Dusknoir (Shadow)",
+    "Attack": 119.8,
+    "Defense": 174.2,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Feraligatr",
+    "Attack": 123.9,
+    "Defense": 117.4,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Gastrodon",
+    "Attack": 113.2,
+    "Defense": 103.4,
+    "Stamina": 168.0
+  },
+  {
+    "Name": "Samurott (Shadow)",
+    "Attack": 128.0,
+    "Defense": 100.9,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Steelix",
+    "Attack": 98.4,
+    "Defense": 183.3,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Stunfisk",
+    "Attack": 101.5,
+    "Defense": 126.7,
+    "Stamina": 172.0
+  },
+  {
+    "Name": "Annihilape (Shadow)",
+    "Attack": 123.4,
+    "Defense": 105.2,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Dusknoir",
+    "Attack": 119.8,
+    "Defense": 174.2,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Sableye (Shadow)",
+    "Attack": 119.7,
+    "Defense": 124.6,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Dedenne",
+    "Attack": 124.4,
+    "Defense": 109.0,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Cradily",
+    "Attack": 105.2,
+    "Defense": 140.3,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Diggersby (Shadow)",
+    "Attack": 95.7,
+    "Defense": 140.3,
+    "Stamina": 174.0
+  },
+  {
+    "Name": "Feraligatr (Shadow)",
+    "Attack": 123.9,
+    "Defense": 117.4,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Quagsire (Shadow)",
+    "Attack": 111.3,
+    "Defense": 112.7,
+    "Stamina": 161.0
+  },
+  {
+    "Name": "Carbink",
+    "Attack": 84.0,
+    "Defense": 252.1,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Morpeko (Full Belly)",
+    "Attack": 140.5,
+    "Defense": 96.3,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Forretress (Shadow)",
+    "Attack": 109.8,
+    "Defense": 145.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Lapras (Shadow)",
+    "Attack": 104.7,
+    "Defense": 114.6,
+    "Stamina": 179.0
+  },
+  {
+    "Name": "Furret",
+    "Attack": 115.3,
+    "Defense": 105.4,
+    "Stamina": 160.0
+  },
+  {
+    "Name": "Golurk (Shadow)",
+    "Attack": 133.3,
+    "Defense": 98.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Marowak",
+    "Attack": 109.6,
+    "Defense": 148.9,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Marowak (Shadow)",
+    "Attack": 109.6,
+    "Defense": 148.9,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Primeape",
+    "Attack": 138.7,
+    "Defense": 100.1,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Machoke (Shadow)",
+    "Attack": 126.8,
+    "Defense": 97.4,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Steelix (Shadow)",
+    "Attack": 98.4,
+    "Defense": 183.3,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Togedemaru",
+    "Attack": 132.2,
+    "Defense": 107.3,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Pangoro",
+    "Attack": 133.9,
+    "Defense": 93.7,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Weezing (Galarian) (Shadow)",
+    "Attack": 117.7,
+    "Defense": 139.5,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Malamar",
+    "Attack": 117.2,
+    "Defense": 116.6,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Malamar (Shadow)",
+    "Attack": 117.2,
+    "Defense": 116.6,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Metang (Shadow)",
+    "Attack": 109.0,
+    "Defense": 145.8,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Primeape (Shadow)",
+    "Attack": 138.7,
+    "Defense": 100.1,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Araquanid",
+    "Attack": 97.4,
+    "Defense": 174.0,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Emolga",
+    "Attack": 127.6,
+    "Defense": 110.2,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Runerigus",
+    "Attack": 111.7,
+    "Defense": 165.3,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Bastiodon",
+    "Attack": 80.6,
+    "Defense": 247.7,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Dusclops (Shadow)",
+    "Attack": 102.4,
+    "Defense": 197.7,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Moltres (Galarian)",
+    "Attack": 115.1,
+    "Defense": 137.5,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Azumarill",
+    "Attack": 93.4,
+    "Defense": 134.5,
+    "Stamina": 191.0
+  },
+  {
+    "Name": "Dragalge",
+    "Attack": 117.9,
+    "Defense": 143.1,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Quagsire",
+    "Attack": 111.3,
+    "Defense": 112.7,
+    "Stamina": 161.0
+  },
+  {
+    "Name": "Scizor (Shadow)",
+    "Attack": 137.9,
+    "Defense": 112.0,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Bellibolt",
+    "Attack": 115.1,
+    "Defense": 110.2,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Metang",
+    "Attack": 109.0,
+    "Defense": 145.8,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Tinkaton",
+    "Attack": 106.2,
+    "Defense": 140.9,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Claydol",
+    "Attack": 103.6,
+    "Defense": 172.7,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Toxapex",
+    "Attack": 91.9,
+    "Defense": 224.3,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Dewott (Shadow)",
+    "Attack": 124.1,
+    "Defense": 99.8,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Sableye",
+    "Attack": 119.7,
+    "Defense": 124.6,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Togetic",
+    "Attack": 110.2,
+    "Defense": 150.2,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Aurorus",
+    "Attack": 113.5,
+    "Defense": 106.3,
+    "Stamina": 164.0
+  },
+  {
+    "Name": "Grumpig",
+    "Attack": 113.3,
+    "Defense": 131.5,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Marowak (Alolan)",
+    "Attack": 109.6,
+    "Defense": 148.9,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Blastoise",
+    "Attack": 112.1,
+    "Defense": 137.7,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Grumpig (Shadow)",
+    "Attack": 113.3,
+    "Defense": 131.5,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Regidrago",
+    "Attack": 121.9,
+    "Defense": 62.7,
+    "Stamina": 241.0
+  },
+  {
+    "Name": "Drifblim",
+    "Attack": 119.2,
+    "Defense": 75.8,
+    "Stamina": 209.0
+  },
+  {
+    "Name": "Weezing (Galarian)",
+    "Attack": 117.7,
+    "Defense": 139.5,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Whiscash (Shadow)",
+    "Attack": 107.6,
+    "Defense": 108.3,
+    "Stamina": 178.0
+  },
+  {
+    "Name": "Lickitung",
+    "Attack": 96.6,
+    "Defense": 127.7,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Marowak (Alolan) (Shadow)",
+    "Attack": 109.6,
+    "Defense": 148.9,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Machamp (Shadow)",
+    "Attack": 135.5,
+    "Defense": 98.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Annihilape",
+    "Attack": 123.4,
+    "Defense": 105.2,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Clefable",
+    "Attack": 116.6,
+    "Defense": 112.1,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Sandslash (Alolan) (Shadow)",
+    "Attack": 116.0,
+    "Defense": 133.3,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Sealeo (Shadow)",
+    "Attack": 109.0,
+    "Defense": 112.8,
+    "Stamina": 168.0
+  },
+  {
+    "Name": "Vespiquen",
+    "Attack": 108.9,
+    "Defense": 143.5,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Victreebel (Shadow)",
+    "Attack": 135.2,
+    "Defense": 93.5,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Sandslash (Alolan)",
+    "Attack": 116.0,
+    "Defense": 133.3,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Melmetal",
+    "Attack": 121.0,
+    "Defense": 105.2,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Golurk",
+    "Attack": 133.3,
+    "Defense": 98.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Jumpluff",
+    "Attack": 96.7,
+    "Defense": 157.0,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Bronzong",
+    "Attack": 110.9,
+    "Defense": 152.3,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Drapion (Shadow)",
+    "Attack": 117.9,
+    "Defense": 136.9,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Raichu",
+    "Attack": 133.6,
+    "Defense": 110.6,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Scizor",
+    "Attack": 137.9,
+    "Defense": 112.0,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Machamp",
+    "Attack": 135.5,
+    "Defense": 98.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Victreebel",
+    "Attack": 135.2,
+    "Defense": 93.5,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Greninja",
+    "Attack": 139.6,
+    "Defense": 100.4,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Guzzlord",
+    "Attack": 113.3,
+    "Defense": 66.1,
+    "Stamina": 265.0
+  },
+  {
+    "Name": "Swampert (Shadow)",
+    "Attack": 123.0,
+    "Defense": 109.2,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Blastoise (Shadow)",
+    "Attack": 112.1,
+    "Defense": 137.7,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Ninetales (Shadow)",
+    "Attack": 114.4,
+    "Defense": 135.5,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Bastiodon (Shadow)",
+    "Attack": 80.6,
+    "Defense": 247.7,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Donphan (Shadow)",
+    "Attack": 125.3,
+    "Defense": 113.2,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Golisopod",
+    "Attack": 124.1,
+    "Defense": 134.7,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Gliscor",
+    "Attack": 115.7,
+    "Defense": 144.5,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Registeel",
+    "Attack": 94.8,
+    "Defense": 192.2,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Whiscash",
+    "Attack": 107.6,
+    "Defense": 108.3,
+    "Stamina": 178.0
+  },
+  {
+    "Name": "Drapion",
+    "Attack": 117.9,
+    "Defense": 136.9,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Lurantis",
+    "Attack": 126.2,
+    "Defense": 117.9,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Swampert",
+    "Attack": 123.0,
+    "Defense": 109.2,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Tentacruel",
+    "Attack": 108.9,
+    "Defense": 143.5,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Electivire (Shadow)",
+    "Attack": 143.4,
+    "Defense": 100.9,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Hakamo-o",
+    "Attack": 115.5,
+    "Defense": 135.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Dewott",
+    "Attack": 122.6,
+    "Defense": 99.8,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Dunsparce",
+    "Attack": 104.8,
+    "Defense": 111.0,
+    "Stamina": 184.0
+  },
+  {
+    "Name": "Hippowdon (Shadow)",
+    "Attack": 116.2,
+    "Defense": 116.8,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Stunfisk (Galarian)",
+    "Attack": 101.5,
+    "Defense": 126.7,
+    "Stamina": 172.0
+  },
+  {
+    "Name": "Cradily (Shadow)",
+    "Attack": 105.2,
+    "Defense": 140.3,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Dachsbun",
+    "Attack": 113.5,
+    "Defense": 156.1,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Lairon",
+    "Attack": 113.8,
+    "Defense": 147.2,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Linoone",
+    "Attack": 114.1,
+    "Defense": 111.8,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Ninetales",
+    "Attack": 114.4,
+    "Defense": 135.5,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Spiritomb",
+    "Attack": 120.8,
+    "Defense": 147.9,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Wigglytuff",
+    "Attack": 115.1,
+    "Defense": 75.5,
+    "Stamina": 223.0
+  },
+  {
+    "Name": "Aurorus (Shadow)",
+    "Attack": 113.5,
+    "Defense": 106.3,
+    "Stamina": 164.0
+  },
+  {
+    "Name": "Toedscruel",
+    "Attack": 108.9,
+    "Defense": 143.5,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Wormadam (Trash)",
+    "Attack": 105.0,
+    "Defense": 151.1,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Zapdos (Shadow)",
+    "Attack": 136.2,
+    "Defense": 104.1,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Gliscor (Shadow)",
+    "Attack": 115.7,
+    "Defense": 144.5,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Talonflame",
+    "Attack": 121.4,
+    "Defense": 112.7,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Thievul",
+    "Attack": 119.9,
+    "Defense": 121.9,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Goodra",
+    "Attack": 119.7,
+    "Defense": 134.1,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Ninetales (Alolan) (Shadow)",
+    "Attack": 114.5,
+    "Defense": 136.1,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Froslass",
+    "Attack": 122.6,
+    "Defense": 114.9,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Drifblim (Shadow)",
+    "Attack": 119.2,
+    "Defense": 75.8,
+    "Stamina": 209.0
+  },
+  {
+    "Name": "Swalot",
+    "Attack": 103.4,
+    "Defense": 122.7,
+    "Stamina": 171.0
+  },
+  {
+    "Name": "Tinkatuff",
+    "Attack": 104.2,
+    "Defense": 134.4,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Hippopotas",
+    "Attack": 115.1,
+    "Defense": 111.8,
+    "Stamina": 152.0
+  },
+  {
+    "Name": "Hippowdon",
+    "Attack": 116.2,
+    "Defense": 116.8,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Medicham",
+    "Attack": 106.9,
+    "Defense": 139.5,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Nidoqueen",
+    "Attack": 116.6,
+    "Defense": 118.5,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Electrode (Hisuian)",
+    "Attack": 123.3,
+    "Defense": 128.7,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Lanturn",
+    "Attack": 104.8,
+    "Defense": 105.5,
+    "Stamina": 194.0
+  },
+  {
+    "Name": "Lickilicky",
+    "Attack": 105.7,
+    "Defense": 125.6,
+    "Stamina": 160.0
+  },
+  {
+    "Name": "Qwilfish",
+    "Attack": 131.2,
+    "Defense": 105.5,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Toxicroak (Shadow)",
+    "Attack": 136.2,
+    "Defense": 93.8,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Lairon (Shadow)",
+    "Attack": 113.8,
+    "Defense": 147.2,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Skeledirge",
+    "Attack": 121.2,
+    "Defense": 109.7,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Zapdos",
+    "Attack": 135.2,
+    "Defense": 105.2,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Barbaracle",
+    "Attack": 121.0,
+    "Defense": 133.1,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Sealeo",
+    "Attack": 109.0,
+    "Defense": 112.8,
+    "Stamina": 168.0
+  },
+  {
+    "Name": "Gallade (Shadow)",
+    "Attack": 136.6,
+    "Defense": 115.6,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Regirock",
+    "Attack": 103.7,
+    "Defense": 180.2,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Dewgong",
+    "Attack": 102.0,
+    "Defense": 136.9,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Pachirisu",
+    "Attack": 91.6,
+    "Defense": 157.1,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Dragonair (Shadow)",
+    "Attack": 125.2,
+    "Defense": 112.5,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Dragonite (Shadow)",
+    "Attack": 135.8,
+    "Defense": 107.3,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Serperior",
+    "Attack": 110.2,
+    "Defense": 142.3,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Klefki",
+    "Attack": 118.0,
+    "Defense": 137.4,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Ninetales (Alolan)",
+    "Attack": 114.5,
+    "Defense": 136.1,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Amoonguss",
+    "Attack": 109.3,
+    "Defense": 105.9,
+    "Stamina": 177.0
+  },
+  {
+    "Name": "Farfetch'd (Galarian)",
+    "Attack": 137.6,
+    "Defense": 99.7,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Armarouge",
+    "Attack": 132.2,
+    "Defense": 109.6,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Donphan",
+    "Attack": 125.3,
+    "Defense": 113.2,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Dragonair",
+    "Attack": 125.2,
+    "Defense": 112.5,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Ursaring (Shadow)",
+    "Attack": 139.6,
+    "Defense": 91.4,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Walrein",
+    "Attack": 112.5,
+    "Defense": 114.9,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Froslass (Shadow)",
+    "Attack": 122.6,
+    "Defense": 114.9,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Magcargo",
+    "Attack": 110.9,
+    "Defense": 156.4,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Sirfetch'd",
+    "Attack": 144.8,
+    "Defense": 108.0,
+    "Stamina": 99.0
+  },
+  {
+    "Name": "Walrein (Shadow)",
+    "Attack": 112.5,
+    "Defense": 114.9,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Aegislash (Shield)",
+    "Attack": 82.9,
+    "Defense": 234.6,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Aron",
+    "Attack": 114.3,
+    "Defense": 131.1,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Bellossom",
+    "Attack": 115.1,
+    "Defense": 132.2,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Kommo-o",
+    "Attack": 123.7,
+    "Defense": 137.8,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Ledian",
+    "Attack": 101.4,
+    "Defense": 162.5,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Toxtricity",
+    "Attack": 141.2,
+    "Defense": 95.4,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Typhlosion (Shadow)",
+    "Attack": 132.8,
+    "Defense": 108.9,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Aron (Shadow)",
+    "Attack": 114.3,
+    "Defense": 131.1,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Castform (Sunny)",
+    "Attack": 112.6,
+    "Defense": 121.3,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Florges",
+    "Attack": 120.1,
+    "Defense": 141.6,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Nidoqueen (Shadow)",
+    "Attack": 116.6,
+    "Defense": 118.5,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Bellossom (Shadow)",
+    "Attack": 115.1,
+    "Defense": 132.2,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Toxicroak",
+    "Attack": 136.2,
+    "Defense": 93.8,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Farfetch'd",
+    "Attack": 116.8,
+    "Defense": 109.2,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Magnezone",
+    "Attack": 134.4,
+    "Defense": 121.2,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Abomasnow (Shadow)",
+    "Attack": 117.9,
+    "Defense": 112.0,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Dragonite",
+    "Attack": 135.8,
+    "Defense": 107.3,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Zweilous",
+    "Attack": 120.5,
+    "Defense": 110.2,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Mew",
+    "Attack": 120.5,
+    "Defense": 119.4,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Scyther (Shadow)",
+    "Attack": 134.9,
+    "Defense": 109.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Amoonguss (Shadow)",
+    "Attack": 109.3,
+    "Defense": 105.9,
+    "Stamina": 177.0
+  },
+  {
+    "Name": "Arctibax",
+    "Attack": 122.9,
+    "Defense": 98.6,
+    "Stamina": 151.0
+  },
+  {
+    "Name": "Crustle (Shadow)",
+    "Attack": 120.3,
+    "Defense": 134.7,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Genesect",
+    "Attack": 141.1,
+    "Defense": 111.7,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Gengar (Shadow)",
+    "Attack": 154.3,
+    "Defense": 95.5,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Grimer (Shadow)",
+    "Attack": 122.8,
+    "Defense": 86.9,
+    "Stamina": 171.0
+  },
+  {
+    "Name": "Mightyena (Shadow)",
+    "Attack": 125.9,
+    "Defense": 105.8,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Skarmory",
+    "Attack": 105.5,
+    "Defense": 166.6,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Urshifu (Single Strike)",
+    "Attack": 136.6,
+    "Defense": 97.8,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Charjabug",
+    "Attack": 114.8,
+    "Defense": 134.8,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Gogoat",
+    "Attack": 119.7,
+    "Defense": 95.0,
+    "Stamina": 165.0
+  },
+  {
+    "Name": "Miltank",
+    "Attack": 105.4,
+    "Defense": 134.8,
+    "Stamina": 150.0
+  },
+  {
+    "Name": "Piloswine",
+    "Attack": 121.1,
+    "Defense": 99.5,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Castform (Rainy)",
+    "Attack": 112.6,
+    "Defense": 121.3,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Gourgeist (Super)",
+    "Attack": 115.1,
+    "Defense": 131.6,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Umbreon",
+    "Attack": 90.2,
+    "Defense": 177.0,
+    "Stamina": 156.0
+  },
+  {
+    "Name": "Venusaur",
+    "Attack": 122.2,
+    "Defense": 122.2,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Glalie",
+    "Attack": 115.2,
+    "Defense": 120.8,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Meganium",
+    "Attack": 110.8,
+    "Defense": 139.0,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Raichu (Alolan)",
+    "Attack": 135.5,
+    "Defense": 109.9,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Salazzle",
+    "Attack": 147.0,
+    "Defense": 91.2,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Electivire",
+    "Attack": 143.4,
+    "Defense": 100.9,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Oranguru",
+    "Attack": 110.2,
+    "Defense": 130.1,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Piloswine (Shadow)",
+    "Attack": 121.1,
+    "Defense": 99.5,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Sandslash (Shadow)",
+    "Attack": 120.5,
+    "Defense": 123.0,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Tentacruel (Shadow)",
+    "Attack": 108.9,
+    "Defense": 143.5,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Charizard (Shadow)",
+    "Attack": 132.8,
+    "Defense": 108.9,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Chesnaught",
+    "Attack": 119.4,
+    "Defense": 126.9,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Crustle",
+    "Attack": 120.3,
+    "Defense": 134.7,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Gourgeist (Large)",
+    "Attack": 115.9,
+    "Defense": 137.2,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Spinda",
+    "Attack": 110.1,
+    "Defense": 110.1,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Tropius",
+    "Attack": 101.4,
+    "Defense": 128.1,
+    "Stamina": 170.0
+  },
+  {
+    "Name": "Wailmer (Shadow)",
+    "Attack": 116.6,
+    "Defense": 68.3,
+    "Stamina": 242.0
+  },
+  {
+    "Name": "Cetoddle",
+    "Attack": 112.6,
+    "Defense": 79.8,
+    "Stamina": 213.0
+  },
+  {
+    "Name": "Gallade",
+    "Attack": 136.6,
+    "Defense": 115.6,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Machoke",
+    "Attack": 126.8,
+    "Defense": 97.4,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Mightyena",
+    "Attack": 125.9,
+    "Defense": 105.8,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Beedrill (Shadow)",
+    "Attack": 127.1,
+    "Defense": 106.5,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Cresselia",
+    "Attack": 92.6,
+    "Defense": 161.0,
+    "Stamina": 162.0
+  },
+  {
+    "Name": "Dragapult",
+    "Attack": 142.5,
+    "Defense": 96.2,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Marshtomp (Shadow)",
+    "Attack": 120.4,
+    "Defense": 111.4,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Bombirdier",
+    "Attack": 127.8,
+    "Defense": 117.2,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Glalie (Shadow)",
+    "Attack": 115.2,
+    "Defense": 120.8,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Hippopotas (Shadow)",
+    "Attack": 115.1,
+    "Defense": 111.8,
+    "Stamina": 152.0
+  },
+  {
+    "Name": "Lokix",
+    "Attack": 132.9,
+    "Defense": 104.1,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Ledian (Shadow)",
+    "Attack": 101.4,
+    "Defense": 162.5,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Marshtomp",
+    "Attack": 119.9,
+    "Defense": 111.5,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Serperior (Shadow)",
+    "Attack": 110.2,
+    "Defense": 142.3,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Abomasnow",
+    "Attack": 117.9,
+    "Defense": 112.0,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Altaria",
+    "Attack": 103.4,
+    "Defense": 151.9,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Cofagrigus",
+    "Attack": 111.7,
+    "Defense": 165.3,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Golett (Shadow)",
+    "Attack": 119.3,
+    "Defense": 89.9,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Regirock (Shadow)",
+    "Attack": 103.9,
+    "Defense": 181.1,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Relicanth",
+    "Attack": 105.2,
+    "Defense": 133.7,
+    "Stamina": 152.0
+  },
+  {
+    "Name": "Roserade",
+    "Attack": 141.9,
+    "Defense": 114.3,
+    "Stamina": 97.0
+  },
+  {
+    "Name": "Aggron",
+    "Attack": 116.6,
+    "Defense": 155.7,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Amaura (Shadow)",
+    "Attack": 114.3,
+    "Defense": 104.2,
+    "Stamina": 165.0
+  },
+  {
+    "Name": "Ferrothorn",
+    "Attack": 107.1,
+    "Defense": 152.7,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Giratina (Origin)",
+    "Attack": 118.5,
+    "Defense": 104.5,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Suicune",
+    "Attack": 107.1,
+    "Defense": 142.1,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Gyarados (Shadow)",
+    "Attack": 130.8,
+    "Defense": 108.5,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Overqwil",
+    "Attack": 131.0,
+    "Defense": 106.9,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Qwilfish (Hisuian)",
+    "Attack": 128.1,
+    "Defense": 112.4,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Ursaring",
+    "Attack": 139.6,
+    "Defense": 91.4,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Wailord",
+    "Attack": 118.4,
+    "Defense": 67.4,
+    "Stamina": 237.0
+  },
+  {
+    "Name": "Whimsicott",
+    "Attack": 118.8,
+    "Defense": 135.0,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Nidorina",
+    "Attack": 110.9,
+    "Defense": 113.4,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Palkia (Shadow)",
+    "Attack": 141.4,
+    "Defense": 112.4,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Pawniard",
+    "Attack": 132.0,
+    "Defense": 107.8,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Fletchinder",
+    "Attack": 123.3,
+    "Defense": 102.6,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Greedent",
+    "Attack": 106.9,
+    "Defense": 110.7,
+    "Stamina": 177.0
+  },
+  {
+    "Name": "Haunter",
+    "Attack": 161.2,
+    "Defense": 85.5,
+    "Stamina": 101.0
+  },
+  {
+    "Name": "Gengar",
+    "Attack": 154.3,
+    "Defense": 95.5,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Leavanny",
+    "Attack": 129.5,
+    "Defense": 110.3,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Mantine",
+    "Attack": 105.5,
+    "Defense": 166.6,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Perrserker",
+    "Attack": 128.8,
+    "Defense": 113.4,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Typhlosion",
+    "Attack": 132.8,
+    "Defense": 108.9,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Wailmer",
+    "Attack": 116.6,
+    "Defense": 68.3,
+    "Stamina": 242.0
+  },
+  {
+    "Name": "Wartortle",
+    "Attack": 107.6,
+    "Defense": 139.1,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Cetitan",
+    "Attack": 120.2,
+    "Defense": 77.1,
+    "Stamina": 202.0
+  },
+  {
+    "Name": "Decidueye",
+    "Attack": 127.8,
+    "Defense": 115.3,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Drifloon (Shadow)",
+    "Attack": 110.9,
+    "Defense": 79.8,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Pumpkaboo (Super)",
+    "Attack": 111.8,
+    "Defense": 113.4,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Galvantula (Shadow)",
+    "Attack": 138.3,
+    "Defense": 96.5,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Hariyama (Shadow)",
+    "Attack": 125.6,
+    "Defense": 76.1,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Sandslash",
+    "Attack": 120.5,
+    "Defense": 123.0,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Scrafty",
+    "Attack": 110.4,
+    "Defense": 156.7,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Gourgeist (Average)",
+    "Attack": 115.9,
+    "Defense": 145.1,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Kingambit",
+    "Attack": 127.3,
+    "Defense": 112.0,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Magneton (Shadow)",
+    "Attack": 143.5,
+    "Defense": 114.7,
+    "Stamina": 95.0
+  },
+  {
+    "Name": "Samurott (Hisuian)",
+    "Attack": 132.6,
+    "Defense": 96.8,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Skuntank",
+    "Attack": 121.7,
+    "Defense": 95.2,
+    "Stamina": 158.0
+  },
+  {
+    "Name": "Trevenant",
+    "Attack": 127.8,
+    "Defense": 104.6,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Hydreigon",
+    "Attack": 136.1,
+    "Defense": 104.5,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Magmar (Shadow)",
+    "Attack": 135.2,
+    "Defense": 107.6,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Drampa",
+    "Attack": 136.8,
+    "Defense": 104.2,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Flygon (Shadow)",
+    "Attack": 127.9,
+    "Defense": 109.6,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Hariyama",
+    "Attack": 125.6,
+    "Defense": 76.1,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Raikou (Shadow)",
+    "Attack": 132.5,
+    "Defense": 109.5,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Tauros (Aqua)",
+    "Attack": 127.8,
+    "Defense": 120.7,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Venomoth",
+    "Attack": 127.0,
+    "Defense": 107.6,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Gourgeist (Small)",
+    "Attack": 116.9,
+    "Defense": 153.0,
+    "Stamina": 107.0
+  },
+  {
+    "Name": "Beedrill",
+    "Attack": 127.1,
+    "Defense": 106.5,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Castform",
+    "Attack": 112.6,
+    "Defense": 121.3,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Nidorina (Shadow)",
+    "Attack": 110.9,
+    "Defense": 113.4,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Poliwrath",
+    "Attack": 115.8,
+    "Defense": 122.0,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Rhyperior (Shadow)",
+    "Attack": 126.8,
+    "Defense": 104.5,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Starmie",
+    "Attack": 133.2,
+    "Defense": 122.0,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Venusaur (Shadow)",
+    "Attack": 122.2,
+    "Defense": 122.2,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Gyarados",
+    "Attack": 130.8,
+    "Defense": 108.5,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Litleo",
+    "Attack": 121.6,
+    "Defense": 105.8,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Amaura",
+    "Attack": 114.3,
+    "Defense": 104.2,
+    "Stamina": 165.0
+  },
+  {
+    "Name": "Avalugg",
+    "Attack": 111.8,
+    "Defense": 141.4,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Scyther",
+    "Attack": 134.9,
+    "Defense": 109.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Ariados",
+    "Attack": 124.2,
+    "Defense": 103.9,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Lileep",
+    "Attack": 100.8,
+    "Defense": 138.6,
+    "Stamina": 151.0
+  },
+  {
+    "Name": "Magnezone (Shadow)",
+    "Attack": 134.4,
+    "Defense": 121.2,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Pelipper",
+    "Attack": 123.3,
+    "Defense": 128.7,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Venomoth (Shadow)",
+    "Attack": 127.0,
+    "Defense": 107.6,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Castform (Snowy)",
+    "Attack": 112.6,
+    "Defense": 121.3,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Drifloon",
+    "Attack": 110.9,
+    "Defense": 79.8,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Dugtrio (Alolan) (Shadow)",
+    "Attack": 148.2,
+    "Defense": 112.9,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Ferrothorn (Shadow)",
+    "Attack": 107.1,
+    "Defense": 152.7,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Galvantula",
+    "Attack": 138.3,
+    "Defense": 96.5,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Kricketune",
+    "Attack": 127.7,
+    "Defense": 89.6,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Empoleon",
+    "Attack": 125.2,
+    "Defense": 117.0,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Servine",
+    "Attack": 105.9,
+    "Defense": 140.3,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Sneasler (Shadow)",
+    "Attack": 145.4,
+    "Defense": 94.7,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Empoleon (Shadow)",
+    "Attack": 125.2,
+    "Defense": 117.0,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Registeel (Shadow)",
+    "Attack": 95.5,
+    "Defense": 190.9,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Turtonator",
+    "Attack": 113.5,
+    "Defense": 153.6,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Furfrou",
+    "Attack": 115.5,
+    "Defense": 125.2,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Lileep (Shadow)",
+    "Attack": 100.8,
+    "Defense": 138.6,
+    "Stamina": 151.0
+  },
+  {
+    "Name": "Meganium (Shadow)",
+    "Attack": 110.8,
+    "Defense": 139.0,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Pawmot",
+    "Attack": 145.1,
+    "Defense": 95.5,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Raikou",
+    "Attack": 130.9,
+    "Defense": 111.1,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Oinkologne (Female)",
+    "Attack": 109.6,
+    "Defense": 111.5,
+    "Stamina": 167.0
+  },
+  {
+    "Name": "Pidgeot",
+    "Attack": 116.9,
+    "Defense": 115.5,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Armaldo (Shadow)",
+    "Attack": 133.9,
+    "Defense": 109.1,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Charizard",
+    "Attack": 132.8,
+    "Defense": 108.9,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Dugtrio (Alolan)",
+    "Attack": 148.2,
+    "Defense": 112.9,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Flygon",
+    "Attack": 127.9,
+    "Defense": 109.6,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Skarmory (Shadow)",
+    "Attack": 105.5,
+    "Defense": 166.6,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Arcanine (Shadow)",
+    "Attack": 132.1,
+    "Defense": 102.6,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Bibarel (Shadow)",
+    "Attack": 123.0,
+    "Defense": 99.3,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Hawlucha",
+    "Attack": 127.5,
+    "Defense": 107.6,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Magneton",
+    "Attack": 143.5,
+    "Defense": 114.7,
+    "Stamina": 95.0
+  },
+  {
+    "Name": "Bewear",
+    "Attack": 129.6,
+    "Defense": 87.2,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Pumpkaboo (Large)",
+    "Attack": 113.4,
+    "Defense": 115.1,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Skuntank (Shadow)",
+    "Attack": 121.7,
+    "Defense": 95.2,
+    "Stamina": 158.0
+  },
+  {
+    "Name": "Dubwool",
+    "Attack": 110.6,
+    "Defense": 143.0,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Golett",
+    "Attack": 119.3,
+    "Defense": 89.9,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Lucario",
+    "Attack": 145.8,
+    "Defense": 93.7,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Ninjask",
+    "Attack": 144.8,
+    "Defense": 88.4,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Poliwrath (Shadow)",
+    "Attack": 115.8,
+    "Defense": 122.0,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Rhydon (Shadow)",
+    "Attack": 126.3,
+    "Defense": 103.4,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Sneasler",
+    "Attack": 145.4,
+    "Defense": 94.7,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Zangoose",
+    "Attack": 144.8,
+    "Defense": 87.8,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Ampharos (Shadow)",
+    "Attack": 126.8,
+    "Defense": 107.9,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Arcanine",
+    "Attack": 132.1,
+    "Defense": 102.6,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Grimer",
+    "Attack": 121.0,
+    "Defense": 88.2,
+    "Stamina": 172.0
+  },
+  {
+    "Name": "Raticate (Alolan)",
+    "Attack": 107.1,
+    "Defense": 130.2,
+    "Stamina": 150.0
+  },
+  {
+    "Name": "Regice",
+    "Attack": 103.7,
+    "Defense": 180.2,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Machop",
+    "Attack": 127.7,
+    "Defense": 81.5,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Magmortar (Shadow)",
+    "Attack": 140.8,
+    "Defense": 104.5,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Rapidash",
+    "Attack": 133.7,
+    "Defense": 111.5,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Snorlax (Shadow)",
+    "Attack": 108.4,
+    "Defense": 102.3,
+    "Stamina": 187.0
+  },
+  {
+    "Name": "Cresselia (Shadow)",
+    "Attack": 93.2,
+    "Defense": 159.9,
+    "Stamina": 162.0
+  },
+  {
+    "Name": "Frillish",
+    "Attack": 109.2,
+    "Defense": 125.2,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Granbull (Shadow)",
+    "Attack": 135.3,
+    "Defense": 88.3,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Machop (Shadow)",
+    "Attack": 127.7,
+    "Defense": 81.5,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Pawmo",
+    "Attack": 136.1,
+    "Defense": 81.5,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Wartortle (Shadow)",
+    "Attack": 107.6,
+    "Defense": 139.1,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Aromatisse",
+    "Attack": 115.8,
+    "Defense": 107.3,
+    "Stamina": 156.0
+  },
+  {
+    "Name": "Rhyperior",
+    "Attack": 126.8,
+    "Defense": 104.5,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Tyrunt (Shadow)",
+    "Attack": 126.6,
+    "Defense": 107.9,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Mantyke",
+    "Attack": 100.8,
+    "Defense": 163.0,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Pinsir (Shadow)",
+    "Attack": 139.6,
+    "Defense": 112.6,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Sceptile",
+    "Attack": 135.6,
+    "Defense": 109.3,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Heatran (Shadow)",
+    "Attack": 130.7,
+    "Defense": 115.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Politoed",
+    "Attack": 114.0,
+    "Defense": 124.3,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Politoed (Shadow)",
+    "Attack": 114.0,
+    "Defense": 124.3,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Tapu Fini",
+    "Attack": 115.3,
+    "Defense": 160.7,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Ampharos",
+    "Attack": 126.8,
+    "Defense": 107.9,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Bibarel",
+    "Attack": 123.0,
+    "Defense": 99.3,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Rapidash (Galarian)",
+    "Attack": 133.7,
+    "Defense": 111.5,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Vaporeon",
+    "Attack": 118.5,
+    "Defense": 96.9,
+    "Stamina": 165.0
+  },
+  {
+    "Name": "Dugtrio (Shadow)",
+    "Attack": 136.8,
+    "Defense": 120.1,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Escavalier",
+    "Attack": 132.2,
+    "Defense": 117.6,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Golem (Alolan) (Shadow)",
+    "Attack": 125.2,
+    "Defense": 122.3,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Kangaskhan",
+    "Attack": 114.6,
+    "Defense": 110.9,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Kleavor",
+    "Attack": 143.6,
+    "Defense": 104.5,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Pidgeot (Shadow)",
+    "Attack": 116.9,
+    "Defense": 115.5,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Pinsir",
+    "Attack": 139.6,
+    "Defense": 112.6,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Grafaiai",
+    "Attack": 134.2,
+    "Defense": 107.8,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Haunter (Shadow)",
+    "Attack": 161.2,
+    "Defense": 85.5,
+    "Stamina": 101.0
+  },
+  {
+    "Name": "Wailord (Shadow)",
+    "Attack": 118.4,
+    "Defense": 67.4,
+    "Stamina": 237.0
+  },
+  {
+    "Name": "Mawile",
+    "Attack": 124.8,
+    "Defense": 120.8,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Noctowl",
+    "Attack": 105.3,
+    "Defense": 120.2,
+    "Stamina": 168.0
+  },
+  {
+    "Name": "Typhlosion (Hisuian)",
+    "Attack": 139.6,
+    "Defense": 106.9,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Sylveon",
+    "Attack": 117.3,
+    "Defense": 124.7,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Celesteela",
+    "Attack": 119.6,
+    "Defense": 120.7,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Centiskorch",
+    "Attack": 128.7,
+    "Defense": 99.4,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Magmar",
+    "Attack": 135.2,
+    "Defense": 107.6,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Mamoswine",
+    "Attack": 136.2,
+    "Defense": 87.4,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Muk",
+    "Attack": 115.9,
+    "Defense": 111.7,
+    "Stamina": 148.0
+  },
+  {
+    "Name": "Munchlax",
+    "Attack": 103.2,
+    "Defense": 96.6,
+    "Stamina": 218.0
+  },
+  {
+    "Name": "Sceptile (Shadow)",
+    "Attack": 135.6,
+    "Defense": 109.3,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Heliolisk",
+    "Attack": 138.1,
+    "Defense": 112.1,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Muk (Shadow)",
+    "Attack": 115.9,
+    "Defense": 111.7,
+    "Stamina": 148.0
+  },
+  {
+    "Name": "Suicune (Shadow)",
+    "Attack": 106.9,
+    "Defense": 143.1,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Zoroark (Hisuian)",
+    "Attack": 163.4,
+    "Defense": 87.5,
+    "Stamina": 96.0
+  },
+  {
+    "Name": "Armaldo",
+    "Attack": 133.9,
+    "Defense": 109.1,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Dugtrio",
+    "Attack": 136.8,
+    "Defense": 120.1,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Escavalier (Shadow)",
+    "Attack": 132.2,
+    "Defense": 117.6,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Mudsdale",
+    "Attack": 123.6,
+    "Defense": 107.1,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Servine (Shadow)",
+    "Attack": 105.9,
+    "Defense": 140.3,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Crocalor",
+    "Attack": 119.4,
+    "Defense": 105.8,
+    "Stamina": 148.0
+  },
+  {
+    "Name": "Golem (Shadow)",
+    "Attack": 125.2,
+    "Defense": 122.3,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Magmortar",
+    "Attack": 140.8,
+    "Defense": 104.5,
+    "Stamina": 108.0
+  },
+  {
+    "Name": "Magnemite (Shadow)",
+    "Attack": 147.8,
+    "Defense": 113.6,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Passimian",
+    "Attack": 128.7,
+    "Defense": 99.2,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Avalugg (Hisuian)",
+    "Attack": 116.5,
+    "Defense": 135.2,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Golem (Alolan)",
+    "Attack": 125.2,
+    "Defense": 122.3,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Obstagoon (Shadow)",
+    "Attack": 113.2,
+    "Defense": 127.9,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Seaking",
+    "Attack": 121.9,
+    "Defense": 109.0,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Excadrill (Shadow)",
+    "Attack": 142.7,
+    "Defense": 78.8,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Kecleon",
+    "Attack": 115.6,
+    "Defense": 142.2,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Staravia",
+    "Attack": 131.9,
+    "Defense": 91.6,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Mamoswine (Shadow)",
+    "Attack": 136.2,
+    "Defense": 87.4,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Pumpkaboo (Average)",
+    "Attack": 114.3,
+    "Defense": 116.0,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Snorlax",
+    "Attack": 108.4,
+    "Defense": 102.3,
+    "Stamina": 187.0
+  },
+  {
+    "Name": "Electabuzz (Shadow)",
+    "Attack": 132.2,
+    "Defense": 112.6,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Scolipede (Shadow)",
+    "Attack": 131.8,
+    "Defense": 120.4,
+    "Stamina": 107.0
+  },
+  {
+    "Name": "Aipom (Shadow)",
+    "Attack": 124.4,
+    "Defense": 106.7,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Druddigon",
+    "Attack": 131.2,
+    "Defense": 111.3,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Rhydon",
+    "Attack": 126.3,
+    "Defense": 103.4,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Parasect",
+    "Attack": 124.2,
+    "Defense": 118.3,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Staravia (Shadow)",
+    "Attack": 131.9,
+    "Defense": 91.6,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Tyrunt",
+    "Attack": 126.6,
+    "Defense": 107.9,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Aggron (Shadow)",
+    "Attack": 116.6,
+    "Defense": 155.7,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Fraxure",
+    "Attack": 144.3,
+    "Defense": 91.5,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Tauros (Combat)",
+    "Attack": 127.8,
+    "Defense": 120.7,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Togekiss",
+    "Attack": 124.3,
+    "Defense": 125.9,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Articuno (Galarian)",
+    "Attack": 133.6,
+    "Defense": 110.4,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Klang",
+    "Attack": 114.1,
+    "Defense": 137.8,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Obstagoon",
+    "Attack": 113.2,
+    "Defense": 127.9,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Spritzee",
+    "Attack": 105.0,
+    "Defense": 107.6,
+    "Stamina": 168.0
+  },
+  {
+    "Name": "Staraptor",
+    "Attack": 140.4,
+    "Defense": 90.8,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Excadrill",
+    "Attack": 142.7,
+    "Defense": 78.8,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Mawile (Shadow)",
+    "Attack": 124.8,
+    "Defense": 120.8,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Golbat",
+    "Attack": 117.7,
+    "Defense": 116.2,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Grimer (Alolan)",
+    "Attack": 122.8,
+    "Defense": 86.9,
+    "Stamina": 171.0
+  },
+  {
+    "Name": "Mienshao",
+    "Attack": 158.9,
+    "Defense": 84.8,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Primarina",
+    "Attack": 131.6,
+    "Defense": 115.7,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Shiftry (Shadow)",
+    "Attack": 133.4,
+    "Defense": 88.1,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Magnemite",
+    "Attack": 147.8,
+    "Defense": 113.6,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Slowking (Galarian)",
+    "Attack": 117.3,
+    "Defense": 117.9,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Vullaby",
+    "Attack": 100.8,
+    "Defense": 129.4,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Heatran",
+    "Attack": 131.9,
+    "Defense": 115.9,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Thundurus (Incarnate)",
+    "Attack": 147.1,
+    "Defense": 95.5,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Golbat (Shadow)",
+    "Attack": 117.7,
+    "Defense": 116.2,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Raticate (Alolan) (Shadow)",
+    "Attack": 107.1,
+    "Defense": 130.2,
+    "Stamina": 150.0
+  },
+  {
+    "Name": "Sandshrew (Alolan)",
+    "Attack": 117.6,
+    "Defense": 121.0,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Braixen",
+    "Attack": 130.6,
+    "Defense": 107.0,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Conkeldurr (Shadow)",
+    "Attack": 134.0,
+    "Defense": 93.9,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Dhelmise",
+    "Attack": 139.8,
+    "Defense": 109.3,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Muk (Alolan)",
+    "Attack": 115.9,
+    "Defense": 111.7,
+    "Stamina": 148.0
+  },
+  {
+    "Name": "Sandshrew",
+    "Attack": 118.5,
+    "Defense": 113.4,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Zygarde (50% Forme)",
+    "Attack": 114.1,
+    "Defense": 128.3,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Staraptor (Shadow)",
+    "Attack": 140.4,
+    "Defense": 90.8,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Gardevoir (Shadow)",
+    "Attack": 136.6,
+    "Defense": 115.6,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Gholdengo",
+    "Attack": 134.6,
+    "Defense": 107.8,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Lunatone",
+    "Attack": 119.1,
+    "Defense": 108.6,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Palossand",
+    "Attack": 116.6,
+    "Defense": 123.0,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Purugly (Shadow)",
+    "Attack": 125.5,
+    "Defense": 105.5,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Hitmontop",
+    "Attack": 121.2,
+    "Defense": 149.9,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Pyroar",
+    "Attack": 135.0,
+    "Defense": 98.0,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Lugia",
+    "Attack": 101.9,
+    "Defense": 167.1,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Slowbro (Galarian)",
+    "Attack": 119.1,
+    "Defense": 108.4,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Drilbur",
+    "Attack": 139.5,
+    "Defense": 81.5,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Girafarig",
+    "Attack": 130.3,
+    "Defense": 101.6,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Houndstone",
+    "Attack": 120.3,
+    "Defense": 130.3,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Hypno",
+    "Attack": 103.4,
+    "Defense": 143.0,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Mudbray",
+    "Attack": 129.9,
+    "Defense": 98.7,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Baxcalibur",
+    "Attack": 135.7,
+    "Defense": 95.7,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Charmeleon (Shadow)",
+    "Attack": 126.6,
+    "Defense": 109.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Deoxys (Defense)",
+    "Attack": 101.0,
+    "Defense": 221.5,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Golem",
+    "Attack": 125.2,
+    "Defense": 122.3,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Graveler (Alolan) (Shadow)",
+    "Attack": 122.6,
+    "Defense": 129.9,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Scolipede",
+    "Attack": 131.8,
+    "Defense": 120.4,
+    "Stamina": 107.0
+  },
+  {
+    "Name": "Sneasel (Hisuian)",
+    "Attack": 134.0,
+    "Defense": 111.8,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Blaziken (Shadow)",
+    "Attack": 143.9,
+    "Defense": 90.8,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Pumpkaboo (Small)",
+    "Attack": 115.1,
+    "Defense": 116.8,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Quaquaval",
+    "Attack": 137.7,
+    "Defense": 98.6,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Bruxish",
+    "Attack": 136.5,
+    "Defense": 102.5,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Drilbur (Shadow)",
+    "Attack": 139.5,
+    "Defense": 81.5,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Graveler (Alolan)",
+    "Attack": 121.5,
+    "Defense": 131.0,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Incineroar",
+    "Attack": 125.3,
+    "Defense": 109.2,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Rhyhorn (Shadow)",
+    "Attack": 112.6,
+    "Defense": 111.0,
+    "Stamina": 159.0
+  },
+  {
+    "Name": "Solrock",
+    "Attack": 119.1,
+    "Defense": 108.6,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Girafarig (Shadow)",
+    "Attack": 130.3,
+    "Defense": 101.6,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Granbull",
+    "Attack": 135.3,
+    "Defense": 88.3,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Nidoking (Shadow)",
+    "Attack": 129.5,
+    "Defense": 105.3,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Quilladin",
+    "Attack": 115.0,
+    "Defense": 130.2,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Ivysaur",
+    "Attack": 118.7,
+    "Defense": 121.1,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Jirachi",
+    "Attack": 120.5,
+    "Defense": 119.4,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Regice (Shadow)",
+    "Attack": 103.9,
+    "Defense": 181.1,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Chimecho",
+    "Attack": 119.6,
+    "Defense": 120.9,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Haxorus",
+    "Attack": 151.5,
+    "Defense": 95.2,
+    "Stamina": 103.0
+  },
+  {
+    "Name": "Aipom",
+    "Attack": 124.4,
+    "Defense": 106.7,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Cryogonal",
+    "Attack": 115.9,
+    "Defense": 138.0,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Dartrix",
+    "Attack": 112.5,
+    "Defense": 115.5,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Golduck (Shadow)",
+    "Attack": 124.2,
+    "Defense": 112.2,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Shiftry",
+    "Attack": 133.4,
+    "Defense": 88.1,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Leafeon",
+    "Attack": 128.1,
+    "Defense": 133.9,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Muk (Alolan) (Shadow)",
+    "Attack": 115.9,
+    "Defense": 111.7,
+    "Stamina": 148.0
+  },
+  {
+    "Name": "Conkeldurr",
+    "Attack": 134.0,
+    "Defense": 93.9,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Grimer (Alolan) (Shadow)",
+    "Attack": 122.8,
+    "Defense": 86.9,
+    "Stamina": 171.0
+  },
+  {
+    "Name": "Vigoroth (Shadow)",
+    "Attack": 116.2,
+    "Defense": 114.1,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Chansey",
+    "Attack": 63.0,
+    "Defense": 120.2,
+    "Stamina": 421.0
+  },
+  {
+    "Name": "Sneasel (Hisuian) (Shadow)",
+    "Attack": 134.0,
+    "Defense": 111.8,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Tauros (Blaze)",
+    "Attack": 127.8,
+    "Defense": 120.7,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Uxie",
+    "Attack": 101.4,
+    "Defense": 176.2,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Sandshrew (Shadow)",
+    "Attack": 118.5,
+    "Defense": 113.4,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Slurpuff",
+    "Attack": 116.0,
+    "Defense": 119.4,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Cacturne",
+    "Attack": 147.2,
+    "Defense": 85.1,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Cacturne (Shadow)",
+    "Attack": 147.2,
+    "Defense": 85.1,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Golduck",
+    "Attack": 124.2,
+    "Defense": 112.2,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Ho-Oh",
+    "Attack": 123.0,
+    "Defense": 129.5,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Manectric",
+    "Attack": 142.5,
+    "Defense": 91.3,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Poliwhirl",
+    "Attack": 114.3,
+    "Defense": 116.0,
+    "Stamina": 148.0
+  },
+  {
+    "Name": "Alomomola",
+    "Attack": 97.4,
+    "Defense": 99.5,
+    "Stamina": 238.0
+  },
+  {
+    "Name": "Dialga (Shadow)",
+    "Attack": 137.9,
+    "Defense": 110.0,
+    "Stamina": 107.0
+  },
+  {
+    "Name": "Growlithe (Shadow)",
+    "Attack": 126.9,
+    "Defense": 90.8,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Misdreavus",
+    "Attack": 123.0,
+    "Defense": 120.9,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Misdreavus (Shadow)",
+    "Attack": 123.0,
+    "Defense": 120.9,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Stoutland",
+    "Attack": 123.9,
+    "Defense": 116.2,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Torkoal",
+    "Attack": 107.6,
+    "Defense": 151.3,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Grovyle",
+    "Attack": 136.3,
+    "Defense": 103.2,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Hitmontop (Shadow)",
+    "Attack": 121.2,
+    "Defense": 149.9,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Swoobat",
+    "Attack": 126.7,
+    "Defense": 101.7,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Magby",
+    "Attack": 139.5,
+    "Defense": 95.8,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Poliwhirl (Shadow)",
+    "Attack": 114.3,
+    "Defense": 116.0,
+    "Stamina": 148.0
+  },
+  {
+    "Name": "Probopass",
+    "Attack": 96.0,
+    "Defense": 203.2,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Rufflet",
+    "Attack": 126.7,
+    "Defense": 92.2,
+    "Stamina": 152.0
+  },
+  {
+    "Name": "Shiinotic",
+    "Attack": 116.6,
+    "Defense": 134.3,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Basculin",
+    "Attack": 134.0,
+    "Defense": 97.2,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Kabuto",
+    "Attack": 134.5,
+    "Defense": 129.5,
+    "Stamina": 96.0
+  },
+  {
+    "Name": "Dolliv",
+    "Attack": 118.5,
+    "Defense": 122.7,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Electabuzz",
+    "Attack": 130.9,
+    "Defense": 113.2,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Krookodile",
+    "Attack": 133.2,
+    "Defense": 98.0,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Naganadel",
+    "Attack": 149.8,
+    "Defense": 95.6,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Oinkologne",
+    "Attack": 117.7,
+    "Defense": 101.6,
+    "Stamina": 159.0
+  },
+  {
+    "Name": "Hypno (Shadow)",
+    "Attack": 103.4,
+    "Defense": 143.0,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Rayquaza",
+    "Attack": 146.5,
+    "Defense": 92.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Wormadam (Sandy)",
+    "Attack": 110.0,
+    "Defense": 144.9,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Durant",
+    "Attack": 135.3,
+    "Defense": 122.4,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Latios (Shadow)",
+    "Attack": 139.4,
+    "Defense": 115.5,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Milotic",
+    "Attack": 113.2,
+    "Defense": 133.9,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Purugly",
+    "Attack": 125.5,
+    "Defense": 105.5,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Rhyhorn",
+    "Attack": 112.6,
+    "Defense": 111.0,
+    "Stamina": 159.0
+  },
+  {
+    "Name": "Weezing (Shadow)",
+    "Attack": 117.7,
+    "Defense": 139.5,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Karrablast (Shadow)",
+    "Attack": 127.7,
+    "Defense": 85.7,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Meowscarada",
+    "Attack": 140.4,
+    "Defense": 99.1,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Salamence (Shadow)",
+    "Attack": 143.5,
+    "Defense": 93.1,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Victini",
+    "Attack": 120.5,
+    "Defense": 119.4,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Ceruledge",
+    "Attack": 136.4,
+    "Defense": 114.0,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Crawdaunt (Shadow)",
+    "Attack": 144.7,
+    "Defense": 98.4,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Darumaka (Shadow)",
+    "Attack": 131.9,
+    "Defense": 82.3,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Pignite",
+    "Attack": 127.3,
+    "Defense": 87.0,
+    "Stamina": 158.0
+  },
+  {
+    "Name": "Gloom",
+    "Attack": 121.4,
+    "Defense": 116.0,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Krokorok",
+    "Attack": 134.0,
+    "Defense": 88.0,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Nidoking",
+    "Attack": 129.5,
+    "Defense": 105.3,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Sandshrew (Alolan) (Shadow)",
+    "Attack": 117.6,
+    "Defense": 121.0,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Blaziken",
+    "Attack": 143.9,
+    "Defense": 90.8,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Eelektrik",
+    "Attack": 122.3,
+    "Defense": 110.1,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Ivysaur (Shadow)",
+    "Attack": 119.8,
+    "Defense": 121.4,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Palpitoad",
+    "Attack": 116.2,
+    "Defense": 103.0,
+    "Stamina": 161.0
+  },
+  {
+    "Name": "Swadloon",
+    "Attack": 106.7,
+    "Defense": 146.2,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Corsola",
+    "Attack": 108.6,
+    "Defense": 142.0,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Frigibax",
+    "Attack": 125.2,
+    "Defense": 84.9,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Maushold",
+    "Attack": 116.2,
+    "Defense": 122.0,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Vigoroth",
+    "Attack": 116.2,
+    "Defense": 114.1,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Bayleef",
+    "Attack": 105.6,
+    "Defense": 141.6,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Cubone (Shadow)",
+    "Attack": 88.2,
+    "Defense": 133.6,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Luxray",
+    "Attack": 138.0,
+    "Defense": 99.0,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Tangrowth",
+    "Attack": 120.7,
+    "Defense": 112.8,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Articuno",
+    "Attack": 112.2,
+    "Defense": 142.3,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Karrablast",
+    "Attack": 127.7,
+    "Defense": 85.7,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Croconaw",
+    "Attack": 117.7,
+    "Defense": 120.0,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Croconaw (Shadow)",
+    "Attack": 117.7,
+    "Defense": 120.0,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Darumaka",
+    "Attack": 131.9,
+    "Defense": 82.3,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Articuno (Shadow)",
+    "Attack": 112.8,
+    "Defense": 141.1,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Combusken",
+    "Attack": 130.4,
+    "Defense": 100.9,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Latios",
+    "Attack": 138.4,
+    "Defense": 115.0,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Buzzwole",
+    "Attack": 128.2,
+    "Defense": 111.7,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Charmeleon",
+    "Attack": 126.6,
+    "Defense": 109.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Grovyle (Shadow)",
+    "Attack": 136.3,
+    "Defense": 103.2,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Quaxwell",
+    "Attack": 125.4,
+    "Defense": 103.5,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Weezing",
+    "Attack": 117.6,
+    "Defense": 140.3,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Lopunny",
+    "Attack": 112.1,
+    "Defense": 143.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Ludicolo",
+    "Attack": 116.5,
+    "Defense": 123.7,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Ponyta",
+    "Attack": 133.5,
+    "Defense": 108.2,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Seviper",
+    "Attack": 137.5,
+    "Defense": 90.1,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Crawdaunt",
+    "Attack": 144.7,
+    "Defense": 98.4,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Grotle (Shadow)",
+    "Attack": 117.8,
+    "Defense": 114.9,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Kabutops",
+    "Attack": 135.5,
+    "Defense": 119.8,
+    "Stamina": 102.0
+  },
+  {
+    "Name": "Electrode",
+    "Attack": 122.9,
+    "Defense": 126.3,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Linoone (Galarian) (Shadow)",
+    "Attack": 114.1,
+    "Defense": 111.8,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Tangrowth (Shadow)",
+    "Attack": 120.7,
+    "Defense": 112.8,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Vikavolt",
+    "Attack": 144.2,
+    "Defense": 96.7,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Wobbuffet",
+    "Attack": 63.0,
+    "Defense": 101.7,
+    "Stamina": 333.0
+  },
+  {
+    "Name": "Hitmonlee",
+    "Attack": 141.8,
+    "Defense": 118.9,
+    "Stamina": 94.0
+  },
+  {
+    "Name": "Floette",
+    "Attack": 114.3,
+    "Defense": 134.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Huntail",
+    "Attack": 130.8,
+    "Defense": 125.6,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Chandelure (Shadow)",
+    "Attack": 151.5,
+    "Defense": 105.2,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Hitmonlee (Shadow)",
+    "Attack": 141.8,
+    "Defense": 118.9,
+    "Stamina": 94.0
+  },
+  {
+    "Name": "Ho-Oh (Shadow)",
+    "Attack": 123.0,
+    "Defense": 129.5,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Lumineon",
+    "Attack": 109.0,
+    "Defense": 137.4,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Probopass (Shadow)",
+    "Attack": 97.4,
+    "Defense": 199.0,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Lugia (Shadow)",
+    "Attack": 103.0,
+    "Defense": 168.2,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Pignite (Shadow)",
+    "Attack": 127.3,
+    "Defense": 87.0,
+    "Stamina": 158.0
+  },
+  {
+    "Name": "Prinplup",
+    "Attack": 118.6,
+    "Defense": 117.1,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Regieleki",
+    "Attack": 151.0,
+    "Defense": 82.0,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Gardevoir",
+    "Attack": 136.6,
+    "Defense": 115.6,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Torterra (Shadow)",
+    "Attack": 119.9,
+    "Defense": 117.0,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Vanillish",
+    "Attack": 123.7,
+    "Defense": 120.5,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Volcanion",
+    "Attack": 135.6,
+    "Defense": 117.4,
+    "Stamina": 103.0
+  },
+  {
+    "Name": "Combusken (Shadow)",
+    "Attack": 130.4,
+    "Defense": 100.9,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Mewtwo (Shadow)",
+    "Attack": 147.4,
+    "Defense": 94.4,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Nidorino (Shadow)",
+    "Attack": 123.3,
+    "Defense": 104.3,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Bonsly",
+    "Attack": 116.8,
+    "Defense": 124.4,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Eelektross",
+    "Attack": 133.8,
+    "Defense": 99.8,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Salamence",
+    "Attack": 143.5,
+    "Defense": 93.1,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Seismitoad",
+    "Attack": 120.3,
+    "Defense": 100.9,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Hitmonchan (Shadow)",
+    "Attack": 128.9,
+    "Defense": 137.4,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Kingdra",
+    "Attack": 121.8,
+    "Defense": 127.9,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Landorus (Incarnate)",
+    "Attack": 139.4,
+    "Defense": 101.5,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Scraggy",
+    "Attack": 120.3,
+    "Defense": 122.8,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Skrelp",
+    "Attack": 104.2,
+    "Defense": 104.2,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Swanna (Shadow)",
+    "Attack": 128.6,
+    "Defense": 101.1,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Zapdos (Galarian)",
+    "Attack": 134.6,
+    "Defense": 107.3,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Rotom",
+    "Attack": 132.4,
+    "Defense": 120.5,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Smoochum",
+    "Attack": 141.2,
+    "Defense": 89.1,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Urshifu (Rapid Strike)",
+    "Attack": 136.6,
+    "Defense": 97.8,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Bayleef (Shadow)",
+    "Attack": 105.6,
+    "Defense": 141.6,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Corvisquire",
+    "Attack": 118.1,
+    "Defense": 104.7,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Crobat",
+    "Attack": 121.2,
+    "Defense": 118.1,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Houndoom (Shadow)",
+    "Attack": 139.6,
+    "Defense": 97.3,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Growlithe",
+    "Attack": 126.9,
+    "Defense": 90.8,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Hatterene",
+    "Attack": 142.2,
+    "Defense": 115.0,
+    "Stamina": 96.0
+  },
+  {
+    "Name": "Heatmor",
+    "Attack": 134.7,
+    "Defense": 92.6,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Hitmonchan",
+    "Attack": 128.9,
+    "Defense": 137.4,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Cubone",
+    "Attack": 88.2,
+    "Defense": 133.6,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Darmanitan (Standard) (Shadow)",
+    "Attack": 149.8,
+    "Defense": 72.1,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Moltres (Shadow)",
+    "Attack": 137.3,
+    "Defense": 101.0,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Shelgon",
+    "Attack": 123.3,
+    "Defense": 119.1,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Darmanitan (Standard)",
+    "Attack": 149.8,
+    "Defense": 72.1,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Emboar (Shadow)",
+    "Attack": 137.9,
+    "Defense": 80.4,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Floatzel",
+    "Attack": 143.8,
+    "Defense": 81.7,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Nidorino",
+    "Attack": 123.3,
+    "Defense": 104.3,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Arbok",
+    "Attack": 123.7,
+    "Defense": 120.1,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Beartic",
+    "Attack": 135.5,
+    "Defense": 94.1,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Cloyster",
+    "Attack": 119.0,
+    "Defense": 169.8,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Kingdra (Shadow)",
+    "Attack": 121.8,
+    "Defense": 127.9,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Monferno",
+    "Attack": 129.6,
+    "Defense": 96.0,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Omanyte (Shadow)",
+    "Attack": 128.0,
+    "Defense": 135.3,
+    "Stamina": 101.0
+  },
+  {
+    "Name": "Vibrava (Shadow)",
+    "Attack": 125.2,
+    "Defense": 95.8,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Buneary",
+    "Attack": 121.8,
+    "Defense": 100.8,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Electrode (Shadow)",
+    "Attack": 122.9,
+    "Defense": 126.3,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Aerodactyl (Shadow)",
+    "Attack": 134.4,
+    "Defense": 103.4,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Bisharp",
+    "Attack": 139.8,
+    "Defense": 109.7,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Herdier",
+    "Attack": 118.9,
+    "Defense": 111.7,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Monferno (Shadow)",
+    "Attack": 129.6,
+    "Defense": 96.0,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Gigalith (Shadow)",
+    "Attack": 127.2,
+    "Defense": 118.4,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Ambipom (Shadow)",
+    "Attack": 133.9,
+    "Defense": 100.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Elekid",
+    "Attack": 126.0,
+    "Defense": 97.5,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Geodude (Alolan)",
+    "Attack": 123.5,
+    "Defense": 123.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Gigalith",
+    "Attack": 127.2,
+    "Defense": 118.4,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Linoone (Galarian)",
+    "Attack": 114.1,
+    "Defense": 111.8,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Minun",
+    "Attack": 116.3,
+    "Defense": 127.1,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Moltres",
+    "Attack": 136.3,
+    "Defense": 102.6,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Bouffalant",
+    "Attack": 118.9,
+    "Defense": 115.9,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Klinklang",
+    "Attack": 124.3,
+    "Defense": 139.6,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Mankey (Shadow)",
+    "Attack": 137.0,
+    "Defense": 81.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Omanyte",
+    "Attack": 128.0,
+    "Defense": 135.3,
+    "Stamina": 101.0
+  },
+  {
+    "Name": "Sandygast",
+    "Attack": 113.4,
+    "Defense": 111.8,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Vileplume",
+    "Attack": 128.8,
+    "Defense": 112.7,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Weepinbell",
+    "Attack": 137.9,
+    "Defense": 84.8,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Crobat (Shadow)",
+    "Attack": 121.2,
+    "Defense": 118.1,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Emboar",
+    "Attack": 137.9,
+    "Defense": 80.4,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Oddish",
+    "Attack": 122.7,
+    "Defense": 106.7,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Darumaka (Galarian)",
+    "Attack": 131.9,
+    "Defense": 82.3,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Flareon",
+    "Attack": 142.3,
+    "Defense": 110.0,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Swellow (Shadow)",
+    "Attack": 136.0,
+    "Defense": 100.0,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Jolteon",
+    "Attack": 137.4,
+    "Defense": 114.7,
+    "Stamina": 103.0
+  },
+  {
+    "Name": "Entei (Shadow)",
+    "Attack": 128.3,
+    "Defense": 97.8,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Cloyster (Shadow)",
+    "Attack": 119.0,
+    "Defense": 169.8,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Luxray (Shadow)",
+    "Attack": 138.0,
+    "Defense": 99.0,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Shelgon (Shadow)",
+    "Attack": 123.3,
+    "Defense": 119.1,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Shellos",
+    "Attack": 99.2,
+    "Defense": 100.8,
+    "Stamina": 166.0
+  },
+  {
+    "Name": "Torracat",
+    "Attack": 135.6,
+    "Defense": 89.9,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Drakloak",
+    "Attack": 130.4,
+    "Defense": 93.1,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Falinks",
+    "Attack": 127.6,
+    "Defense": 119.2,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Growlithe (Hisuian)",
+    "Attack": 131.9,
+    "Defense": 89.9,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Stakataka",
+    "Attack": 119.5,
+    "Defense": 169.1,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Teddiursa (Shadow)",
+    "Attack": 131.5,
+    "Defense": 90.5,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Delcatty",
+    "Attack": 111.9,
+    "Defense": 116.8,
+    "Stamina": 153.0
+  },
+  {
+    "Name": "Mismagius",
+    "Attack": 131.6,
+    "Defense": 123.7,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Quilava",
+    "Attack": 126.6,
+    "Defense": 109.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Chandelure",
+    "Attack": 151.5,
+    "Defense": 105.2,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Exploud",
+    "Attack": 119.8,
+    "Defense": 99.5,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Garchomp (Shadow)",
+    "Attack": 132.5,
+    "Defense": 101.5,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Kartana",
+    "Attack": 169.2,
+    "Defense": 99.3,
+    "Stamina": 79.0
+  },
+  {
+    "Name": "Poipole",
+    "Attack": 119.7,
+    "Defense": 113.6,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Archeops (Shadow)",
+    "Attack": 160.6,
+    "Defense": 81.9,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Exploud (Shadow)",
+    "Attack": 119.8,
+    "Defense": 99.5,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Grotle",
+    "Attack": 117.8,
+    "Defense": 114.9,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Gurdurr",
+    "Attack": 125.3,
+    "Defense": 100.1,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Rotom (Heat)",
+    "Attack": 128.8,
+    "Defense": 144.9,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Sneasel (Shadow)",
+    "Attack": 134.0,
+    "Defense": 111.8,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Graveler (Shadow)",
+    "Attack": 122.6,
+    "Defense": 129.9,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Manectric (Shadow)",
+    "Attack": 142.5,
+    "Defense": 91.3,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Metagross (Shadow)",
+    "Attack": 132.8,
+    "Defense": 122.1,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Yanmega",
+    "Attack": 136.8,
+    "Defense": 96.1,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Appletun",
+    "Attack": 116.6,
+    "Defense": 102.5,
+    "Stamina": 161.0
+  },
+  {
+    "Name": "Heracross",
+    "Attack": 134.7,
+    "Defense": 108.4,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Porygon",
+    "Attack": 120.0,
+    "Defense": 115.4,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Swellow",
+    "Attack": 136.0,
+    "Defense": 100.0,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Ursaluna (Shadow)",
+    "Attack": 125.6,
+    "Defense": 98.7,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Houndoom",
+    "Attack": 139.6,
+    "Defense": 97.3,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Ursaluna",
+    "Attack": 125.6,
+    "Defense": 98.7,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Frogadier",
+    "Attack": 134.5,
+    "Defense": 100.9,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Geodude (Shadow)",
+    "Attack": 123.5,
+    "Defense": 123.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Gloom (Shadow)",
+    "Attack": 121.4,
+    "Defense": 116.0,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Carnivine",
+    "Attack": 130.2,
+    "Defense": 101.9,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Cherrim (Sunshine)",
+    "Attack": 121.9,
+    "Defense": 116.3,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Groudon (Shadow)",
+    "Attack": 135.5,
+    "Defense": 116.8,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Mismagius (Shadow)",
+    "Attack": 131.6,
+    "Defense": 123.7,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Oddish (Shadow)",
+    "Attack": 122.7,
+    "Defense": 106.7,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Arbok (Shadow)",
+    "Attack": 123.7,
+    "Defense": 120.1,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Arboliva",
+    "Attack": 129.3,
+    "Defense": 116.6,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Camerupt",
+    "Attack": 133.6,
+    "Defense": 100.5,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Vibrava",
+    "Attack": 125.2,
+    "Defense": 95.8,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Garchomp",
+    "Attack": 132.5,
+    "Defense": 101.5,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Geodude (Alolan) (Shadow)",
+    "Attack": 123.5,
+    "Defense": 123.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Graveler",
+    "Attack": 121.5,
+    "Defense": 131.0,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Gurdurr (Shadow)",
+    "Attack": 125.3,
+    "Defense": 100.1,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Pidgeotto (Shadow)",
+    "Attack": 110.9,
+    "Defense": 100.8,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Quilava (Shadow)",
+    "Attack": 126.6,
+    "Defense": 109.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Raboot",
+    "Attack": 128.9,
+    "Defense": 103.7,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Breloom",
+    "Attack": 150.0,
+    "Defense": 96.7,
+    "Stamina": 103.0
+  },
+  {
+    "Name": "Delphox",
+    "Attack": 132.6,
+    "Defense": 115.6,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Zoroark",
+    "Attack": 157.3,
+    "Defense": 88.0,
+    "Stamina": 103.0
+  },
+  {
+    "Name": "Kubfu",
+    "Attack": 136.6,
+    "Defense": 95.6,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Sawk (Shadow)",
+    "Attack": 140.4,
+    "Defense": 97.4,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Diancie",
+    "Attack": 119.2,
+    "Defense": 175.2,
+    "Stamina": 89.0
+  },
+  {
+    "Name": "Latias (Shadow)",
+    "Attack": 124.1,
+    "Defense": 136.2,
+    "Stamina": 107.0
+  },
+  {
+    "Name": "Mankey",
+    "Attack": 137.0,
+    "Defense": 81.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Mr. Mime",
+    "Attack": 131.6,
+    "Defense": 144.3,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Sneasel",
+    "Attack": 134.0,
+    "Defense": 111.8,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Tyranitar (Shadow)",
+    "Attack": 129.7,
+    "Defense": 111.4,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Entei",
+    "Attack": 127.7,
+    "Defense": 98.3,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Larvesta",
+    "Attack": 130.8,
+    "Defense": 99.8,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Slowbro",
+    "Attack": 113.4,
+    "Defense": 120.9,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Absol (Shadow)",
+    "Attack": 156.6,
+    "Defense": 84.0,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Comfey",
+    "Attack": 116.2,
+    "Defense": 157.5,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Exeggutor (Alolan) (Shadow)",
+    "Attack": 134.4,
+    "Defense": 94.8,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Houndour (Shadow)",
+    "Attack": 140.3,
+    "Defense": 82.3,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Slowking",
+    "Attack": 113.4,
+    "Defense": 120.9,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Swanna",
+    "Attack": 128.6,
+    "Defense": 101.1,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Tauros",
+    "Attack": 125.1,
+    "Defense": 119.5,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Tirtouga",
+    "Attack": 114.4,
+    "Defense": 132.5,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Arcanine (Hisuian)",
+    "Attack": 132.4,
+    "Defense": 99.5,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Boldore (Shadow)",
+    "Attack": 125.4,
+    "Defense": 109.3,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Nuzleaf (Shadow)",
+    "Attack": 125.2,
+    "Defense": 78.1,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Oricorio (Sensu)",
+    "Attack": 130.9,
+    "Defense": 102.1,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Prinplup (Shadow)",
+    "Attack": 118.6,
+    "Defense": 117.1,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Torterra",
+    "Attack": 119.9,
+    "Defense": 117.0,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Eldegoss",
+    "Attack": 108.4,
+    "Defense": 160.5,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Metagross",
+    "Attack": 132.8,
+    "Defense": 122.1,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Oricorio (Pom-Pom)",
+    "Attack": 130.9,
+    "Defense": 102.1,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Slowpoke",
+    "Attack": 104.2,
+    "Defense": 95.0,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Archen (Shadow)",
+    "Attack": 159.5,
+    "Defense": 76.1,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Wormadam (Plant)",
+    "Attack": 110.0,
+    "Defense": 144.9,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Camerupt (Shadow)",
+    "Attack": 133.6,
+    "Defense": 100.5,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Cursola",
+    "Attack": 145.7,
+    "Defense": 111.1,
+    "Stamina": 95.0
+  },
+  {
+    "Name": "Flapple",
+    "Attack": 138.1,
+    "Defense": 100.1,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Geodude",
+    "Attack": 123.5,
+    "Defense": 123.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Thwackey",
+    "Attack": 123.7,
+    "Defense": 107.6,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Weavile (Shadow)",
+    "Attack": 141.9,
+    "Defense": 105.1,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Blissey",
+    "Attack": 81.0,
+    "Defense": 111.3,
+    "Stamina": 307.0
+  },
+  {
+    "Name": "Tyrantrum",
+    "Attack": 129.1,
+    "Defense": 115.1,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Weavile",
+    "Attack": 141.9,
+    "Defense": 105.1,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Infernape",
+    "Attack": 136.7,
+    "Defense": 100.4,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Honchkrow",
+    "Attack": 150.0,
+    "Defense": 68.9,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Simisage",
+    "Attack": 136.0,
+    "Defense": 95.8,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Stufful",
+    "Attack": 124.8,
+    "Defense": 92.2,
+    "Stamina": 156.0
+  },
+  {
+    "Name": "Tangela",
+    "Attack": 125.6,
+    "Defense": 122.9,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Decidueye (Hisuian)",
+    "Attack": 129.6,
+    "Defense": 107.5,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Infernape (Shadow)",
+    "Attack": 136.7,
+    "Defense": 100.4,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Luxio",
+    "Attack": 133.3,
+    "Defense": 91.1,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Nuzleaf",
+    "Attack": 125.2,
+    "Defense": 78.1,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Porygon2",
+    "Attack": 122.2,
+    "Defense": 117.9,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Tirtouga (Shadow)",
+    "Attack": 114.4,
+    "Defense": 132.5,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Mothim",
+    "Attack": 140.0,
+    "Defense": 83.0,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Slowpoke (Shadow)",
+    "Attack": 104.2,
+    "Defense": 95.0,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Teddiursa",
+    "Attack": 131.5,
+    "Defense": 90.5,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Oricorio (Baile)",
+    "Attack": 130.9,
+    "Defense": 102.1,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Slowking (Shadow)",
+    "Attack": 113.4,
+    "Defense": 120.9,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Rillaboom",
+    "Attack": 132.4,
+    "Defense": 99.3,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Slowbro (Shadow)",
+    "Attack": 113.4,
+    "Defense": 120.9,
+    "Stamina": 144.0
+  },
+  {
+    "Name": "Slowpoke (Galarian)",
+    "Attack": 104.2,
+    "Defense": 95.0,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Tyrantrum (Shadow)",
+    "Attack": 129.1,
+    "Defense": 115.1,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Weepinbell (Shadow)",
+    "Attack": 139.4,
+    "Defense": 82.7,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Wyrdeer",
+    "Attack": 126.6,
+    "Defense": 95.6,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Stunky (Shadow)",
+    "Attack": 114.3,
+    "Defense": 88.2,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Pidgeotto",
+    "Attack": 110.9,
+    "Defense": 100.8,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Tsareena",
+    "Attack": 130.4,
+    "Defense": 120.7,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Zebstrika (Shadow)",
+    "Attack": 137.7,
+    "Defense": 95.5,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Tranquill (Shadow)",
+    "Attack": 124.0,
+    "Defense": 102.2,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Fuecoco",
+    "Attack": 106.7,
+    "Defense": 93.3,
+    "Stamina": 152.0
+  },
+  {
+    "Name": "Lampent (Shadow)",
+    "Attack": 132.5,
+    "Defense": 99.0,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Lilligant (Hisuian)",
+    "Attack": 133.5,
+    "Defense": 107.8,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Absol",
+    "Attack": 156.6,
+    "Defense": 84.0,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Honchkrow (Shadow)",
+    "Attack": 150.0,
+    "Defense": 68.9,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Kyogre (Shadow)",
+    "Attack": 135.5,
+    "Defense": 116.8,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Archeops",
+    "Attack": 160.6,
+    "Defense": 81.9,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Rotom (Wash)",
+    "Attack": 128.8,
+    "Defense": 144.9,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Sharpedo",
+    "Attack": 166.6,
+    "Defense": 64.1,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Shaymin (Land)",
+    "Attack": 117.9,
+    "Defense": 122.3,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Boldore",
+    "Attack": 124.4,
+    "Defense": 109.6,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Braviary",
+    "Attack": 133.8,
+    "Defense": 92.9,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Lycanroc (Dusk)",
+    "Attack": 144.6,
+    "Defense": 92.0,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Sliggoo",
+    "Attack": 114.2,
+    "Defense": 133.8,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Sudowoodo",
+    "Attack": 117.2,
+    "Defense": 130.1,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Wobbuffet (Shadow)",
+    "Attack": 63.0,
+    "Defense": 101.7,
+    "Stamina": 333.0
+  },
+  {
+    "Name": "Aerodactyl",
+    "Attack": 134.4,
+    "Defense": 103.4,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Ambipom",
+    "Attack": 133.9,
+    "Defense": 100.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Latias",
+    "Attack": 124.0,
+    "Defense": 134.1,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Polteageist",
+    "Attack": 142.8,
+    "Defense": 115.6,
+    "Stamina": 95.0
+  },
+  {
+    "Name": "Porygon2 (Shadow)",
+    "Attack": 122.2,
+    "Defense": 117.9,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Banette",
+    "Attack": 145.3,
+    "Defense": 92.3,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Onix",
+    "Attack": 84.0,
+    "Defense": 207.6,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Exeggutor (Alolan)",
+    "Attack": 134.4,
+    "Defense": 94.8,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Cinderace",
+    "Attack": 139.0,
+    "Defense": 99.4,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Lycanroc (Midday)",
+    "Attack": 142.7,
+    "Defense": 93.1,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Toedscool",
+    "Attack": 94.1,
+    "Defense": 137.8,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Vileplume (Shadow)",
+    "Attack": 128.8,
+    "Defense": 112.7,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Dustox",
+    "Attack": 95.0,
+    "Defense": 148.7,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Gabite",
+    "Attack": 128.8,
+    "Defense": 102.4,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Masquerain",
+    "Attack": 129.6,
+    "Defense": 109.1,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Onix (Shadow)",
+    "Attack": 84.0,
+    "Defense": 207.6,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Pineco (Shadow)",
+    "Attack": 103.4,
+    "Defense": 115.1,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Seel",
+    "Attack": 84.0,
+    "Defense": 114.3,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Tyranitar",
+    "Attack": 129.7,
+    "Defense": 111.4,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Zygarde (10% Forme)",
+    "Attack": 138.1,
+    "Defense": 119.1,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Brionne",
+    "Attack": 125.9,
+    "Defense": 117.1,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Simisear",
+    "Attack": 136.0,
+    "Defense": 95.8,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Vivillon",
+    "Attack": 131.7,
+    "Defense": 86.3,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Clamperl",
+    "Attack": 124.4,
+    "Defense": 126.0,
+    "Stamina": 105.0
+  },
+  {
+    "Name": "Lycanroc (Midnight)",
+    "Attack": 132.6,
+    "Defense": 99.8,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Rotom (Fan)",
+    "Attack": 128.8,
+    "Defense": 144.9,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Sawk",
+    "Attack": 140.4,
+    "Defense": 97.4,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Tangela (Shadow)",
+    "Attack": 125.6,
+    "Defense": 122.9,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Corphish (Shadow)",
+    "Attack": 131.1,
+    "Defense": 95.8,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Darmanitan (Galarian)",
+    "Attack": 149.8,
+    "Defense": 72.1,
+    "Stamina": 138.0
+  },
+  {
+    "Name": "Glaceon",
+    "Attack": 135.8,
+    "Defense": 122.4,
+    "Stamina": 99.0
+  },
+  {
+    "Name": "Houndour",
+    "Attack": 140.3,
+    "Defense": 82.3,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Revavroom",
+    "Attack": 135.7,
+    "Defense": 102.5,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Yanma",
+    "Attack": 130.8,
+    "Defense": 89.7,
+    "Stamina": 146.0
+  },
+  {
+    "Name": "Zebstrika",
+    "Attack": 137.7,
+    "Defense": 95.5,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Ribombee",
+    "Attack": 136.3,
+    "Defense": 105.9,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Hattrem",
+    "Attack": 122.7,
+    "Defense": 115.7,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Popplio",
+    "Attack": 113.4,
+    "Defense": 99.2,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Stonjourner",
+    "Attack": 125.6,
+    "Defense": 108.0,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Carracosta",
+    "Attack": 121.4,
+    "Defense": 127.0,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Espeon",
+    "Attack": 148.1,
+    "Defense": 105.6,
+    "Stamina": 97.0
+  },
+  {
+    "Name": "Raticate",
+    "Attack": 125.9,
+    "Defense": 116.1,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Espurr",
+    "Attack": 113.4,
+    "Defense": 108.4,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Kingler",
+    "Attack": 144.5,
+    "Defense": 115.6,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Butterfree (Shadow)",
+    "Attack": 126.7,
+    "Defense": 112.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Meowstic (Male)",
+    "Attack": 117.2,
+    "Defense": 124.0,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Raticate (Shadow)",
+    "Attack": 125.9,
+    "Defense": 116.1,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Cinccino",
+    "Attack": 134.9,
+    "Defense": 96.2,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Skorupi (Shadow)",
+    "Attack": 90.8,
+    "Defense": 139.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Carracosta (Shadow)",
+    "Attack": 121.4,
+    "Defense": 127.0,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Luxio (Shadow)",
+    "Attack": 133.7,
+    "Defense": 90.2,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Vanilluxe",
+    "Attack": 131.5,
+    "Defense": 117.4,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Stunky",
+    "Attack": 114.3,
+    "Defense": 88.2,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Murkrow",
+    "Attack": 143.2,
+    "Defense": 81.1,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Mesprit",
+    "Attack": 122.4,
+    "Defense": 128.7,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Rotom (Frost)",
+    "Attack": 128.8,
+    "Defense": 144.9,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Tranquill",
+    "Attack": 124.0,
+    "Defense": 102.2,
+    "Stamina": 143.0
+  },
+  {
+    "Name": "Simipour",
+    "Attack": 136.0,
+    "Defense": 95.8,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Archen",
+    "Attack": 159.5,
+    "Defense": 76.1,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Phanpy (Shadow)",
+    "Attack": 102.5,
+    "Defense": 95.0,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Celebi",
+    "Attack": 120.5,
+    "Defense": 119.4,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Rotom (Mow)",
+    "Attack": 128.8,
+    "Defense": 144.9,
+    "Stamina": 93.0
+  },
+  {
+    "Name": "Lampent",
+    "Attack": 132.5,
+    "Defense": 99.0,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Persian (Shadow)",
+    "Attack": 118.6,
+    "Defense": 116.3,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Sigilyph",
+    "Attack": 130.1,
+    "Defense": 112.1,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Persian",
+    "Attack": 118.6,
+    "Defense": 116.3,
+    "Stamina": 137.0
+  },
+  {
+    "Name": "Phanpy",
+    "Attack": 102.5,
+    "Defense": 95.0,
+    "Stamina": 186.0
+  },
+  {
+    "Name": "Pineco",
+    "Attack": 103.4,
+    "Defense": 115.1,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Skorupi",
+    "Attack": 90.8,
+    "Defense": 139.5,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Crabominable",
+    "Attack": 136.8,
+    "Defense": 88.5,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Gabite (Shadow)",
+    "Attack": 128.8,
+    "Defense": 102.4,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Oricorio (Pa'u)",
+    "Attack": 130.9,
+    "Defense": 102.1,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Persian (Alolan)",
+    "Attack": 122.4,
+    "Defense": 112.6,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Trapinch",
+    "Attack": 148.7,
+    "Defense": 78.1,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Trapinch (Shadow)",
+    "Attack": 148.7,
+    "Defense": 78.1,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Gothitelle",
+    "Attack": 115.3,
+    "Defense": 140.9,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Murkrow (Shadow)",
+    "Attack": 143.2,
+    "Defense": 81.1,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Plusle",
+    "Attack": 128.2,
+    "Defense": 107.2,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Sudowoodo (Shadow)",
+    "Attack": 117.2,
+    "Defense": 130.1,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Honedge",
+    "Attack": 122.1,
+    "Defense": 127.1,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Lombre",
+    "Attack": 106.7,
+    "Defense": 112.6,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Omastar",
+    "Attack": 126.6,
+    "Defense": 128.4,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Stantler",
+    "Attack": 132.1,
+    "Defense": 99.5,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Wugtrio",
+    "Attack": 151.1,
+    "Defense": 108.6,
+    "Stamina": 90.0
+  },
+  {
+    "Name": "Corphish",
+    "Attack": 131.1,
+    "Defense": 95.8,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Doublade",
+    "Attack": 122.9,
+    "Defense": 140.0,
+    "Stamina": 106.0
+  },
+  {
+    "Name": "Dwebble",
+    "Attack": 111.8,
+    "Defense": 120.2,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Gothorita (Shadow)",
+    "Attack": 112.2,
+    "Defense": 132.8,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Banette (Shadow)",
+    "Attack": 145.9,
+    "Defense": 91.6,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Gothitelle (Shadow)",
+    "Attack": 115.3,
+    "Defense": 140.9,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Rampardos (Shadow)",
+    "Attack": 162.2,
+    "Defense": 67.3,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Toucannon",
+    "Attack": 137.3,
+    "Defense": 96.8,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Clauncher",
+    "Attack": 103.4,
+    "Defense": 110.9,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Dwebble (Shadow)",
+    "Attack": 111.8,
+    "Defense": 120.2,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Omastar (Shadow)",
+    "Attack": 126.6,
+    "Defense": 128.4,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Tentacool (Shadow)",
+    "Attack": 94.1,
+    "Defense": 137.8,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Loudred (Shadow)",
+    "Attack": 125.2,
+    "Defense": 80.7,
+    "Stamina": 178.0
+  },
+  {
+    "Name": "Porygon (Shadow)",
+    "Attack": 120.0,
+    "Defense": 115.4,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Sunflora",
+    "Attack": 128.7,
+    "Defense": 102.2,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Mr. Rime",
+    "Attack": 127.4,
+    "Defense": 114.4,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Tentacool",
+    "Attack": 94.1,
+    "Defense": 137.8,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Fearow",
+    "Attack": 131.5,
+    "Defense": 104.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Flaaffy",
+    "Attack": 121.5,
+    "Defense": 100.5,
+    "Stamina": 151.0
+  },
+  {
+    "Name": "Liepard (Shadow)",
+    "Attack": 139.8,
+    "Defense": 88.5,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Alakazam (Shadow)",
+    "Attack": 155.9,
+    "Defense": 101.4,
+    "Stamina": 91.0
+  },
+  {
+    "Name": "Chinchou",
+    "Attack": 101.7,
+    "Defense": 94.1,
+    "Stamina": 164.0
+  },
+  {
+    "Name": "Crabrawler",
+    "Attack": 135.7,
+    "Defense": 98.9,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Gothorita",
+    "Attack": 112.2,
+    "Defense": 132.8,
+    "Stamina": 134.0
+  },
+  {
+    "Name": "Beautifly",
+    "Attack": 144.7,
+    "Defense": 84.0,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Flaaffy (Shadow)",
+    "Attack": 121.5,
+    "Defense": 100.5,
+    "Stamina": 151.0
+  },
+  {
+    "Name": "Stantler (Shadow)",
+    "Attack": 133.6,
+    "Defense": 98.5,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Totodile",
+    "Attack": 110.9,
+    "Defense": 104.2,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Whirlipede (Shadow)",
+    "Attack": 96.6,
+    "Defense": 158.0,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Butterfree",
+    "Attack": 126.7,
+    "Defense": 112.6,
+    "Stamina": 124.0
+  },
+  {
+    "Name": "Drizzile",
+    "Attack": 137.9,
+    "Defense": 92.1,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Tatsugiri (Curly)",
+    "Attack": 137.4,
+    "Defense": 108.1,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Tatsugiri (Droopy)",
+    "Attack": 137.4,
+    "Defense": 108.1,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Tatsugiri (Stretchy)",
+    "Attack": 137.4,
+    "Defense": 108.1,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Totodile (Shadow)",
+    "Attack": 110.9,
+    "Defense": 104.2,
+    "Stamina": 127.0
+  },
+  {
+    "Name": "Lilligant",
+    "Attack": 136.6,
+    "Defense": 105.9,
+    "Stamina": 114.0
+  },
+  {
+    "Name": "Whirlipede",
+    "Attack": 96.6,
+    "Defense": 158.0,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Eevee",
+    "Attack": 100.0,
+    "Defense": 108.4,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Garbodor (Shadow)",
+    "Attack": 121.1,
+    "Defense": 115.9,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Loudred",
+    "Attack": 125.2,
+    "Defense": 80.7,
+    "Stamina": 178.0
+  },
+  {
+    "Name": "Ponyta (Galarian)",
+    "Attack": 133.5,
+    "Defense": 108.2,
+    "Stamina": 116.0
+  },
+  {
+    "Name": "Dodrio",
+    "Attack": 143.8,
+    "Defense": 98.4,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Watchog (Shadow)",
+    "Attack": 125.2,
+    "Defense": 114.1,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Alakazam",
+    "Attack": 155.9,
+    "Defense": 101.4,
+    "Stamina": 91.0
+  },
+  {
+    "Name": "Boltund",
+    "Attack": 136.9,
+    "Defense": 95.4,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Bulbasaur",
+    "Attack": 111.8,
+    "Defense": 105.9,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Chespin",
+    "Attack": 105.0,
+    "Defense": 101.7,
+    "Stamina": 136.0
+  },
+  {
+    "Name": "Floragato",
+    "Attack": 124.5,
+    "Defense": 110.6,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Braviary (Hisuian)",
+    "Attack": 128.6,
+    "Defense": 89.7,
+    "Stamina": 151.0
+  },
+  {
+    "Name": "Krabby",
+    "Attack": 148.1,
+    "Defense": 111.2,
+    "Stamina": 92.0
+  },
+  {
+    "Name": "Pancham",
+    "Attack": 123.3,
+    "Defense": 99.3,
+    "Stamina": 149.0
+  },
+  {
+    "Name": "Snover",
+    "Attack": 109.2,
+    "Defense": 100.8,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Meowstic (Female)",
+    "Attack": 117.2,
+    "Defense": 124.0,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Gumshoos",
+    "Attack": 134.2,
+    "Defense": 85.0,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Illumise",
+    "Attack": 111.4,
+    "Defense": 136.2,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Liepard",
+    "Attack": 139.8,
+    "Defense": 88.5,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Koffing",
+    "Attack": 112.6,
+    "Defense": 131.1,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Mr. Mime (Galarian)",
+    "Attack": 130.5,
+    "Defense": 127.0,
+    "Stamina": 104.0
+  },
+  {
+    "Name": "Koffing (Shadow)",
+    "Attack": 112.6,
+    "Defense": 131.1,
+    "Stamina": 113.0
+  },
+  {
+    "Name": "Komala",
+    "Attack": 136.9,
+    "Defense": 110.3,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Musharna",
+    "Attack": 113.1,
+    "Defense": 108.9,
+    "Stamina": 161.0
+  },
+  {
+    "Name": "Sawsbuck",
+    "Attack": 129.4,
+    "Defense": 101.9,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Watchog",
+    "Attack": 125.2,
+    "Defense": 114.1,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Beheeyem",
+    "Attack": 134.4,
+    "Defense": 105.7,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Exeggutor (Shadow)",
+    "Attack": 136.2,
+    "Defense": 92.5,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Pupitar (Shadow)",
+    "Attack": 120.2,
+    "Defense": 111.8,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Accelgor (Shadow)",
+    "Attack": 143.2,
+    "Defense": 84.9,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Maractus",
+    "Attack": 135.5,
+    "Defense": 95.2,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Xatu (Shadow)",
+    "Attack": 132.2,
+    "Defense": 107.9,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Goldeen",
+    "Attack": 116.0,
+    "Defense": 105.0,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Garbodor",
+    "Attack": 121.1,
+    "Defense": 115.9,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Roggenrola (Shadow)",
+    "Attack": 114.3,
+    "Defense": 105.0,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Piplup (Shadow)",
+    "Attack": 106.7,
+    "Defense": 98.3,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Hoopa",
+    "Attack": 144.8,
+    "Defense": 106.3,
+    "Stamina": 99.0
+  },
+  {
+    "Name": "Azelf",
+    "Attack": 150.9,
+    "Defense": 91.4,
+    "Stamina": 107.0
+  },
+  {
+    "Name": "Exeggutor",
+    "Attack": 136.2,
+    "Defense": 92.5,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Piplup",
+    "Attack": 106.7,
+    "Defense": 98.3,
+    "Stamina": 131.0
+  },
+  {
+    "Name": "Exeggcute (Shadow)",
+    "Attack": 102.5,
+    "Defense": 117.6,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Exeggcute",
+    "Attack": 102.5,
+    "Defense": 117.6,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Bergmite",
+    "Attack": 110.9,
+    "Defense": 113.4,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Clawitzer",
+    "Attack": 134.4,
+    "Defense": 110.5,
+    "Stamina": 112.0
+  },
+  {
+    "Name": "Nosepass",
+    "Attack": 81.5,
+    "Defense": 193.3,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Octillery",
+    "Attack": 131.5,
+    "Defense": 100.8,
+    "Stamina": 128.0
+  },
+  {
+    "Name": "Xatu",
+    "Attack": 132.2,
+    "Defense": 107.9,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Bulbasaur (Shadow)",
+    "Attack": 111.8,
+    "Defense": 105.9,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Seadra (Shadow)",
+    "Attack": 131.3,
+    "Defense": 117.6,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Shaymin (Sky)",
+    "Attack": 139.4,
+    "Defense": 94.1,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Deerling",
+    "Attack": 109.2,
+    "Defense": 96.6,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Nosepass (Shadow)",
+    "Attack": 81.5,
+    "Defense": 193.3,
+    "Stamina": 98.0
+  },
+  {
+    "Name": "Rampardos",
+    "Attack": 162.2,
+    "Defense": 67.3,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Inteleon",
+    "Attack": 153.4,
+    "Defense": 89.1,
+    "Stamina": 107.0
+  },
+  {
+    "Name": "Roselia",
+    "Attack": 138.6,
+    "Defense": 105.9,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Pupitar",
+    "Attack": 120.2,
+    "Defense": 111.8,
+    "Stamina": 139.0
+  },
+  {
+    "Name": "Trumbeak",
+    "Attack": 133.7,
+    "Defense": 94.3,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Snover (Shadow)",
+    "Attack": 109.2,
+    "Defense": 100.8,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Drowzee (Shadow)",
+    "Attack": 87.4,
+    "Defense": 126.9,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Volbeat",
+    "Attack": 111.4,
+    "Defense": 136.2,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Roggenrola",
+    "Attack": 114.3,
+    "Defense": 105.0,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Drowzee",
+    "Attack": 87.4,
+    "Defense": 126.9,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Elgyem",
+    "Attack": 133.7,
+    "Defense": 95.5,
+    "Stamina": 132.0
+  },
+  {
+    "Name": "Gorebyss",
+    "Attack": 136.2,
+    "Defense": 121.0,
+    "Stamina": 100.0
+  },
+  {
+    "Name": "Audino",
+    "Attack": 92.7,
+    "Defense": 137.9,
+    "Stamina": 190.0
+  },
+  {
+    "Name": "Cherrim (Overcast)",
+    "Attack": 121.9,
+    "Defense": 116.3,
+    "Stamina": 130.0
+  },
+  {
+    "Name": "Accelgor",
+    "Attack": 143.2,
+    "Defense": 84.9,
+    "Stamina": 129.0
+  },
+  {
+    "Name": "Jynx",
+    "Attack": 141.2,
+    "Defense": 102.2,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Porygon-Z (Shadow)",
+    "Attack": 147.6,
+    "Defense": 88.1,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Seadra",
+    "Attack": 131.3,
+    "Defense": 117.6,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Varoom",
+    "Attack": 116.0,
+    "Defense": 102.5,
+    "Stamina": 120.0
+  },
+  {
+    "Name": "Rowlet",
+    "Attack": 98.3,
+    "Defense": 95.8,
+    "Stamina": 154.0
+  },
+  {
+    "Name": "Throh",
+    "Attack": 110.3,
+    "Defense": 107.8,
+    "Stamina": 171.0
+  },
+  {
+    "Name": "Reuniclus (Shadow)",
+    "Attack": 126.9,
+    "Defense": 94.9,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Porygon-Z",
+    "Attack": 147.6,
+    "Defense": 88.1,
+    "Stamina": 117.0
+  },
+  {
+    "Name": "Chatot",
+    "Attack": 139.6,
+    "Defense": 78.4,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Flabebe",
+    "Attack": 103.4,
+    "Defense": 113.4,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Unfezant (Shadow)",
+    "Attack": 138.6,
+    "Defense": 95.6,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Turtwig",
+    "Attack": 112.6,
+    "Defense": 105.0,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Turtwig (Shadow)",
+    "Attack": 112.6,
+    "Defense": 105.0,
+    "Stamina": 135.0
+  },
+  {
+    "Name": "Throh (Shadow)",
+    "Attack": 110.3,
+    "Defense": 107.8,
+    "Stamina": 171.0
+  },
+  {
+    "Name": "Noivern",
+    "Attack": 125.5,
+    "Defense": 113.5,
+    "Stamina": 126.0
+  },
+  {
+    "Name": "Reuniclus",
+    "Attack": 126.9,
+    "Defense": 94.9,
+    "Stamina": 147.0
+  },
+  {
+    "Name": "Axew",
+    "Attack": 138.7,
+    "Defense": 96.1,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Meltan",
+    "Attack": 111.8,
+    "Defense": 95.8,
+    "Stamina": 121.0
+  },
+  {
+    "Name": "Ferroseed",
+    "Attack": 81.5,
+    "Defense": 142.9,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Swirlix",
+    "Attack": 104.2,
+    "Defense": 112.6,
+    "Stamina": 145.0
+  },
+  {
+    "Name": "Ferroseed (Shadow)",
+    "Attack": 81.5,
+    "Defense": 142.9,
+    "Stamina": 119.0
+  },
+  {
+    "Name": "Tornadus (Incarnate)",
+    "Attack": 147.1,
+    "Defense": 95.5,
+    "Stamina": 109.0
+  },
+  {
+    "Name": "Unfezant",
+    "Attack": 138.6,
+    "Defense": 95.6,
+    "Stamina": 122.0
+  },
+  {
+    "Name": "Duosion (Shadow)",
+    "Attack": 149.2,
+    "Defense": 82.0,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Timburr",
+    "Attack": 125.2,
+    "Defense": 85.7,
+    "Stamina": 164.0
+  },
+  {
+    "Name": "Solosis (Shadow)",
+    "Attack": 152.0,
+    "Defense": 81.9,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Deoxys (Speed)",
+    "Attack": 140.8,
+    "Defense": 131.6,
+    "Stamina": 86.0
+  },
+  {
+    "Name": "Snubbull",
+    "Attack": 127.7,
+    "Defense": 84.0,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Duosion",
+    "Attack": 149.2,
+    "Defense": 82.0,
+    "Stamina": 123.0
+  },
+  {
+    "Name": "Munna",
+    "Attack": 105.9,
+    "Defense": 89.9,
+    "Stamina": 166.0
+  },
+  {
+    "Name": "Solosis",
+    "Attack": 152.0,
+    "Defense": 81.9,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Timburr (Shadow)",
+    "Attack": 125.2,
+    "Defense": 85.7,
+    "Stamina": 164.0
+  },
+  {
+    "Name": "Anorith (Shadow)",
+    "Attack": 145.4,
+    "Defense": 92.1,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Anorith",
+    "Attack": 145.4,
+    "Defense": 92.1,
+    "Stamina": 115.0
+  },
+  {
+    "Name": "Snubbull (Shadow)",
+    "Attack": 127.7,
+    "Defense": 84.0,
+    "Stamina": 142.0
+  },
+  {
+    "Name": "Regigigas (Shadow)",
+    "Attack": 138.4,
+    "Defense": 106.3,
+    "Stamina": 110.0
+  },
+  {
+    "Name": "Regigigas",
+    "Attack": 137.9,
+    "Defense": 105.8,
+    "Stamina": 111.0
+  },
+  {
+    "Name": "Spoink (Shadow)",
+    "Attack": 117.6,
+    "Defense": 115.1,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Skiddo",
+    "Attack": 116.0,
+    "Defense": 98.3,
+    "Stamina": 151.0
+  },
+  {
+    "Name": "Spoink",
+    "Attack": 117.6,
+    "Defense": 115.1,
+    "Stamina": 141.0
+  },
+  {
+    "Name": "Kadabra",
+    "Attack": 163.8,
+    "Defense": 90.9,
+    "Stamina": 92.0
+  },
+  {
+    "Name": "Clefairy",
+    "Attack": 102.5,
+    "Defense": 103.4,
+    "Stamina": 157.0
+  },
+  {
+    "Name": "Unown",
+    "Attack": 126.9,
+    "Defense": 89.1,
+    "Stamina": 125.0
+  },
+  {
+    "Name": "Kadabra (Shadow)",
+    "Attack": 163.8,
+    "Defense": 90.9,
+    "Stamina": 92.0
+  },
+  {
+    "Name": "Mienfoo",
+    "Attack": 142.8,
+    "Defense": 93.3,
+    "Stamina": 118.0
+  },
+  {
+    "Name": "Cranidos",
+    "Attack": 163.9,
+    "Defense": 62.9,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Cranidos (Shadow)",
+    "Attack": 163.9,
+    "Defense": 62.9,
+    "Stamina": 133.0
+  },
+  {
+    "Name": "Slaking",
+    "Attack": 138.9,
+    "Defense": 83.1,
+    "Stamina": 140.0
+  },
+  {
+    "Name": "Slaking (Shadow)",
+    "Attack": 138.9,
+    "Defense": 83.1,
+    "Stamina": 140.0
+  }
+]

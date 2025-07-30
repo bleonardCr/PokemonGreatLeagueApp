@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Azumarill",
+    "Types": [ "Water", "Fairy" ],
+    "FastMoves": [ "Bubble", "Rock Smash" ],
+    "ChargeMoves": [ "Play Rough", "Hydro Pump", "Ice Beam" ]
+  },
+  {
+    "Name": "Altaria",
+    "Types": [ "Dragon", "Flying" ],
+    "FastMoves": [ "Dragon Breath" ],
+    "ChargeMoves": [ "Sky Attack", "Moonblast" ]
+  }
+]
