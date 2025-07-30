@@ -1,13 +1,12 @@
-﻿namespace PokemonGreatLeagueApp.Models
+﻿namespace LeagueJsonGenerator.Models
 {
     public class PokemonEntry
     {
         public string Name { get; set; } = string.Empty;
-        public string Type1 { get; set; } = string.Empty;
-        public string? Type2 { get; set; }
+        public string FastMove { get; set; } = string.Empty;
+        public string ChargeMove1 { get; set; } = string.Empty;
+        public string ChargeMove2 { get; set; } = string.Empty;
         public int CP { get; set; }
-        public int Attack { get; set; }
-        public int Defense { get; set; }
-        public int Stamina { get; set; }
+        public string League { get; set; } = string.Empty;
     }
 }

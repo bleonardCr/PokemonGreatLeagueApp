@@ -1,16 +1,18 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using Newtonsoft.Json;
-using NebsojiPVPTrainer.Models;
+using System.Text.Json;
+using PokemonGreatLeagueApp.Models;
 
-namespace NebsojiPVPTrainer.Services
+namespace PokemonGreatLeagueApp.Services
 {
-    public static class MoveDataLoader
+    public class MoveDataLoader
     {
-        public static List<PokemonMoveSet> LoadAll()
+        public List<PokemonMoveSet> LoadMoveSets(string filePath)
         {
-            var json = File.ReadAllText("Data/pokemon.json");
-            return JsonConvert.DeserializeObject<List<PokemonMoveSet>>(json);
+            if (!File.Exists(filePath)) return new List<PokemonMoveSet>();
+
+            string json = File.ReadAllText(filePath);
+            return JsonSerializer.Deserialize<List<PokemonMoveSet>>(json) ?? new List<PokemonMoveSet>();
         }
     }
 }

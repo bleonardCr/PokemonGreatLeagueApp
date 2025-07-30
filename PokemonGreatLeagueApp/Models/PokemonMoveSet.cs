@@ -2,9 +2,8 @@
 {
     public class PokemonMoveSet
     {
-        public string PokemonName { get; set; } = string.Empty;
         public string FastMove { get; set; } = string.Empty;
-        public string ChargedMove1 { get; set; } = string.Empty;
-        public string? ChargedMove2 { get; set; }
+        public string ChargeMove1 { get; set; } = string.Empty;
+        public string? ChargeMove2 { get; set; }
     }
 }

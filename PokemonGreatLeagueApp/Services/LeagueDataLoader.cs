@@ -1,36 +1,24 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
-using PokemonGreatLeagueApp.Models;
+using NebsojiPVPTrainer.Models;
 
-namespace PokemonGreatLeagueApp.Services
+namespace NebsojiPVPTrainer.Services
 {
     public static class LeagueDataLoader
     {
-        public static List<PokemonEntry> LoadGreatLeague()
-            => Load("Data/great_league.json");
-
-        public static List<PokemonEntry> LoadMasterLeague()
-            => Load("Data/master_league.json");
-
-        public static List<PokemonEntry> LoadLeague(string league)
+        public static List<PokemonEntry> LoadLeague(string leagueKey)
         {
-            return league switch
+            string dataPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data", $"{leagueKey}.json");
+
+            if (!File.Exists(dataPath))
             {
-                "Great" => LoadGreatLeague(),
-                "Master" => LoadMasterLeague(),
-                _ => new List<PokemonEntry>()
-            };
-        }
+                throw new FileNotFoundException($"Missing {leagueKey}.json in Data folder.");
+            }
 
-        private static List<PokemonEntry> Load(string path)
-        {
-            if (!File.Exists(path))
-                return new List<PokemonEntry>();
-
-            var json = File.ReadAllText(path);
-            return JsonSerializer.Deserialize<List<PokemonEntry>>(json)
-                   ?? new List<PokemonEntry>();
+            string json = File.ReadAllText(dataPath);
+            return JsonSerializer.Deserialize<List<PokemonEntry>>(json) ?? new List<PokemonEntry>();
         }
     }
 }

@@ -1,6 +1,9 @@
-﻿namespace NebsojiPVPTrainer
+﻿using System;
+using System.Windows.Forms;
+
+namespace NebsojiPVPTrainer
 {
-    static class Program
+    internal static class Program
     {
         [STAThread]
         static void Main()

@@ -1,16 +1,16 @@
-﻿using System.Collections.Generic;
+﻿using NebsojiPVPTrainer.Models;
 using PokemonGreatLeagueApp.Models;
+using System.Collections.Generic;
 
 namespace PokemonGreatLeagueApp.Services
 {
-    public static class MatchupCalculator
+    public class MatchupCalculator
     {
-        public static string Calculate(List<PokemonEntry> myTeam, List<PokemonEntry> enemyTeam)
+        public string Calculate(PokemonEntry myPokemon, PokemonEntry enemyPokemon)
         {
-            if (myTeam == null || enemyTeam == null || myTeam.Count == 0 || enemyTeam.Count == 0)
-                return "No matchup available";
-
-            return "Draw";
+            // super simple logic placeholder
+            if (myPokemon.Type1 == enemyPokemon.Type1) return "Draw";
+            return "Win/Lose logic placeholder";
         }
     }
 }
