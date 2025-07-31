@@ -1,18 +1,27 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text.Json;
-using PokemonGreatLeagueApp.Models;
+using NebsojiPVPTrainer.Models;
 
-namespace PokemonGreatLeagueApp.Services
+namespace NebsojiPVPTrainer.Services
 {
-    public class MoveDataLoader
+    public static class MoveDataLoader
     {
-        public List<PokemonMoveSet> LoadMoveSets(string filePath)
-        {
-            if (!File.Exists(filePath)) return new List<PokemonMoveSet>();
+        private static readonly List<PokemonMoveSet> GreatMoves =
+            JsonSerializer.Deserialize<List<PokemonMoveSet>>(File.ReadAllText("Data/great_league_moves.json"))!
+            ?? new List<PokemonMoveSet>();
 
-            string json = File.ReadAllText(filePath);
-            return JsonSerializer.Deserialize<List<PokemonMoveSet>>(json) ?? new List<PokemonMoveSet>();
+        private static readonly List<PokemonMoveSet> MasterMoves =
+            JsonSerializer.Deserialize<List<PokemonMoveSet>>(File.ReadAllText("Data/master_league_moves.json"))!
+            ?? new List<PokemonMoveSet>();
+
+        public static PokemonMoveSet GetMoveSet(string speciesId)
+        {
+            return GreatMoves
+                .Concat(MasterMoves)
+                .FirstOrDefault(m => m.SpeciesId == speciesId)
+                ?? new PokemonMoveSet { SpeciesId = speciesId, FastMove = "", ChargedMoves = new() };
         }
     }
 }

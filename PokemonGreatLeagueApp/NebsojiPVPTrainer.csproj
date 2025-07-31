@@ -13,6 +13,7 @@
 	  <None Remove="Data\master_league.json" />
 	  <None Remove="Data\move_sets_great_league.json" />
 	  <None Remove="Data\move_sets_master_league.json" />
+	  <None Remove="Data\pokemon.json" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -26,6 +27,9 @@
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </Content>
 	  <Content Include="Data\move_sets_master_league.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	  <Content Include="Data\pokemon.json">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </Content>
 	</ItemGroup>

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using System.Windows.Forms;
 using NebsojiPVPTrainer.Models;
 using NebsojiPVPTrainer.Services;
@@ -16,60 +18,114 @@ namespace NebsojiPVPTrainer
 
             leagueDropdown.Items.Add("Great League");
             leagueDropdown.Items.Add("Master League");
-            leagueDropdown.SelectedIndexChanged += LeagueDropdown_SelectedIndexChanged;
+            leagueDropdown.SelectedIndexChanged += OnLeagueChanged;
             leagueDropdown.SelectedIndex = 0;
 
-            resetMyTeamButton.Click += (s, e) =>
-            {
-                myTeam1.SelectedIndex = -1;
-                myTeam2.SelectedIndex = -1;
-                myTeam3.SelectedIndex = -1;
-            };
+            foreach (var cb in new[] { myTeam1, myTeam2, myTeam3, enemyTeam1, enemyTeam2, enemyTeam3 })
+                cb.SelectedIndexChanged += (_, __) => RecalculateMatchups();
 
-            resetEnemyTeamButton.Click += (s, e) =>
-            {
-                enemyTeam1.SelectedIndex = -1;
-                enemyTeam2.SelectedIndex = -1;
-                enemyTeam3.SelectedIndex = -1;
-            };
-
-            resetAllButton.Click += (s, e) =>
-            {
-                myTeam1.SelectedIndex = -1;
-                myTeam2.SelectedIndex = -1;
-                myTeam3.SelectedIndex = -1;
-                enemyTeam1.SelectedIndex = -1;
-                enemyTeam2.SelectedIndex = -1;
-                enemyTeam3.SelectedIndex = -1;
-                coverageBox.Clear();
-            };
-
-            // Trigger initial load
-            LeagueDropdown_SelectedIndexChanged(null, EventArgs.Empty);
+            resetMyTeamButton.Click += (_, __) => ResetMyTeam();
+            resetEnemyTeamButton.Click += (_, __) => ResetEnemyTeam();
         }
 
-        private void LeagueDropdown_SelectedIndexChanged(object? sender, EventArgs e)
+        private void OnLeagueChanged(object? sender, EventArgs? e)
         {
-            var league = leagueDropdown.SelectedItem as string == "Master League"
-                ? "master_league" : "great_league";
+            var dataDir = Path.Combine(Application.StartupPath, "Data");
+            var dexPath = Path.Combine(dataDir, "pokemon.json");
+            var movesFile = leagueDropdown.SelectedItem!.ToString() == "Master League"
+                ? "move_sets_master_league.json"
+                : "move_sets_great_league.json";
+            var movesPath = Path.Combine(dataDir, movesFile);
 
-            allPokemon = LeagueDataLoader.LoadLeague(league);
+            allPokemon = PokemonDataService.LoadPokemonEntries(dexPath, movesPath);
 
-            myTeam1.Items.Clear();
-            myTeam2.Items.Clear();
-            myTeam3.Items.Clear();
-            enemyTeam1.Items.Clear();
-            enemyTeam2.Items.Clear();
-            enemyTeam3.Items.Clear();
-
-            foreach (var p in allPokemon)
+            object[] names = allPokemon.Select(p => (object)p.Name!).ToArray();
+            foreach (var cb in new[] { myTeam1, myTeam2, myTeam3, enemyTeam1, enemyTeam2, enemyTeam3 })
             {
-                myTeam1.Items.Add(p.Name);
-                myTeam2.Items.Add(p.Name);
-                myTeam3.Items.Add(p.Name);
-                enemyTeam1.Items.Add(p.Name);
-                enemyTeam2.Items.Add(p.Name);
-                enemyTeam3.Items.Add(p.Name);
+                cb.Items.Clear();
+                cb.Items.AddRange(names);
+                cb.Text = "";
+            }
+
+            coverageBox.Clear();
+            RecalculateMatchups();
+        }
+
+        private void ResetMyTeam()
+        {
+            myTeam1.Text = myTeam2.Text = myTeam3.Text = "";
+            coverageBox.Clear();
+        }
+
+        private void ResetEnemyTeam()
+        {
+            enemyTeam1.Text = enemyTeam2.Text = enemyTeam3.Text = "";
+            coverageBox.Clear();
+        }
+
+        private void RecalculateMatchups()
+        {
+            coverageBox.Clear();
+
+            var myEntries = new[]
+            {
+                allPokemon.FirstOrDefault(p => p.Name == myTeam1.Text),
+                allPokemon.FirstOrDefault(p => p.Name == myTeam2.Text),
+                allPokemon.FirstOrDefault(p => p.Name == myTeam3.Text)
+            }
+            .Where(p => p is not null)
+            .Cast<PokemonEntry>()
+            .ToList();
+
+            var enemyEntries = new[]
+            {
+                allPokemon.FirstOrDefault(p => p.Name == enemyTeam1.Text),
+                allPokemon.FirstOrDefault(p => p.Name == enemyTeam2.Text),
+                allPokemon.FirstOrDefault(p => p.Name == enemyTeam3.Text)
+            }
+            .Where(p => p is not null)
+            .Cast<PokemonEntry>()
+            .ToList();
+
+            if (myEntries.Count < 3)
+            {
+                coverageBox.AppendText("Please select all 3 of your Pokémon.\n");
+                return;
+            }
+            if (enemyEntries.Count < 1)
+            {
+                coverageBox.AppendText("Please select at least one enemy Pokémon.\n");
+                return;
+            }
+
+            foreach (var defender in enemyEntries)
+            {
+                coverageBox.AppendText($"-- vs {defender.Name} --\n");
+                foreach (var attacker in myEntries)
+                {
+                    var pct = MatchupCalculator.Calculate(attacker, defender);
+                    string symbol = pct switch
+                    {
+                        >= 75 => "👍",
+                        >= 60 => "👌",
+                        >= 50 => "➖",
+                        _ => "👎"
+                    };
+
+                    var movesText = (attacker.Defaults?.MoveTypes?.Count ?? 0) > 0
+                        ? string.Join(", ", attacker.Defaults!.MoveTypes!)
+                        : string.Join(", ", attacker.Types!);
+
+                    var defenderTypesText = defender.Types != null
+                    ? string.Join(", ", defender.Types)
+    :                   "unknown";
+
+                    coverageBox.AppendText(
+                        $"{attacker.Name} [{movesText}] vs {defender.Name} [{defenderTypesText}]: {pct:N0}% {symbol}\n"
+                    );
+
+                }
+                coverageBox.AppendText(Environment.NewLine);
             }
         }
     }
