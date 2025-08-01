@@ -39,7 +39,12 @@ namespace NebsojiPVPTrainer
 
             allPokemon = PokemonDataService.LoadPokemonEntries(dexPath, movesPath);
 
-            object[] names = allPokemon.Select(p => (object)p.Name!).ToArray();
+            object[] names = allPokemon
+            .Select(p => p.Name!)
+            .OrderBy(n => n)
+            .Cast<object>()
+            .ToArray();
+
             foreach (var cb in new[] { myTeam1, myTeam2, myTeam3, enemyTeam1, enemyTeam2, enemyTeam3 })
             {
                 cb.Items.Clear();
@@ -117,13 +122,12 @@ namespace NebsojiPVPTrainer
                         : string.Join(", ", attacker.Types!);
 
                     var defenderTypesText = defender.Types != null
-                    ? string.Join(", ", defender.Types)
-    :                   "unknown";
+                        ? string.Join(", ", defender.Types)
+                        : "unknown";
 
                     coverageBox.AppendText(
                         $"{attacker.Name} [{movesText}] vs {defender.Name} [{defenderTypesText}]: {pct:N0}% {symbol}\n"
                     );
-
                 }
                 coverageBox.AppendText(Environment.NewLine);
             }

@@ -9,6 +9,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <None Remove="Data\gamemaster.json" />
 	  <None Remove="Data\great_league.json" />
 	  <None Remove="Data\master_league.json" />
 	  <None Remove="Data\move_sets_great_league.json" />
@@ -17,6 +18,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Content Include="Data\gamemaster.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
 	  <Content Include="Data\great_league.json">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </Content>
